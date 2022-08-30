@@ -1,6 +1,6 @@
-## Current courses
+### Current courses
 * None.
 
-## Past courses
+### Past courses
 * Mathematical Analysis II. 2022 Spring, teaching assistant, undergraduate students.
   * 1  
