@@ -2,7 +2,7 @@ Professor at [School of Mathematical Sciences](https://math.cnu.edu.cn/), [Capit
 
 Haidian District, Beijing 100048, China.
 
-Email: ??
+E-mail: ??
 
 ### About me
 你的CV，个人简介
