@@ -28,7 +28,7 @@ More precisely, I am interested in
 
 * Symplectic Geometry and Symplectic Topology: symplectic reduction; Floer homologies and Fukaya categories; quiver varieties; cluster varieties; singularities 
 
-* Hamiltonian Systems and Celestial Mechanics: Maslov index; stability; central configurations; periodic orbits; Gutzwiller’s semiclassical trace formula 
+* Hamiltonian Systems and Celestial Mechanics: Maslov index; N-body problem (stability; central configurations; periodic orbits); Gutzwiller’s semiclassical trace formula; integrability 
  
 * Mathematical Physics: higher structures (homotopical algebras) behind quantum mechanics and quantum field theory; 
 
