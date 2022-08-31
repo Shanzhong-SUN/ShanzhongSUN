@@ -9,16 +9,16 @@ E-mail: sunsz@cnu.edu.cn
 
 ---------
 
-### [News](https://shanzhong-sun.github.io/Shanzhong-SUN/event)
+### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
 ---------
 
-### [Research](https://shanzhong-sun.github.io/Shanzhong-SUN/research)
+### [Research](https://shanzhong-sun.github.io/ShanzhongSUN/research)
 简述你的研究兴趣。
 
 ---------
 
-### [Teaching](https://shanzhong-sun.github.io/Shanzhong-SUN/teaching)
+### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 当前教学信息、通知
 
 ---------
