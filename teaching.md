@@ -93,4 +93,4 @@
 * 2010.09-2011.01 **Gromov-Witten理论和可积系统**
 * 2007.10-2010.01 **数学物理不定期讨论班(Gauge Theory and Geometric Langlands Program: Hitchin, Witten, Nakajima相关工作)**
 
-#### [Back to Home](https://shanzhong-sun.github.io/Shanzhong-SUN/)
+#### [Back to Home](https://shanzhong-sun.github.io/ShanzhongSUN/)
