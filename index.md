@@ -1,6 +1,6 @@
 Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/)（首都师范大学数学系）.
 
-Haidian District, Beijing 100048, China.
+105 Xisanhuan Beilu, Haidian District, Beijing 100048, China.
 
 E-mail: sunsz AT cnu.edu.cn
 
@@ -21,6 +21,8 @@ Then I joined Capital Normal University in 2003 as a faculty member of Departmen
 
 ### [Research](https://shanzhong-sun.github.io/ShanzhongSUN/research)
 简述你的研究兴趣。
+
+My research interests lie at the crossroads of mathematics and physics and I work on such topics as N-body problem in celestial mechanics, Fukaya category in symplectic topology, semiclassical trace formula and resurgence theory. More precisely, I am interested in • Symplectic Geometry and Symplectic Topology: symplectic reduction; Floer homologies and Fukaya categories, quiver varieties; cluster varieties; singularities • Hamiltonian Systems and Celestial Mechanics: Maslov index; stability; central configurations; periodic orbits; Gutzwiller’s semiclassical trace formula • Mathematical Physics: higher structures (homotopical algebras) behind quantum mechanics and quantum field theory; 
 
 ---------
 
