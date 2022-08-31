@@ -1,8 +1,8 @@
-Professor at [School of Mathematical Sciences](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/).
+Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/)（首都师范大学数学系）.
 
 Haidian District, Beijing 100048, China.
 
-E-mail: sunsz@cnu.edu.cn
+E-mail: sunsz AT cnu.edu.cn
 
 ### About me
 你的CV，个人简介
