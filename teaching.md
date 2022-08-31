@@ -91,6 +91,6 @@
 * 2011.03-2011.06 **Morse-Witten理论**
 * 2011.03-2011.06 **黎曼流形上的Laplacian**
 * 2010.09-2011.01 **Gromov-Witten理论和可积系统**
-* 2007.10-2010.01 **数学物理不定期讨论班 (Gauge Theory and Geometric Langlands Program: Hitchin, Witten, Nakajima相关工作)**
+* 2007.10-2010.01 **数学物理不定期讨论班(Gauge Theory and Geometric Langlands Program: Hitchin, Witten, Nakajima相关工作)**
 
 #### [Back to Home](https://shanzhong-sun.github.io/Shanzhong-SUN/)
