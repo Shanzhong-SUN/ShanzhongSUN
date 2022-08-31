@@ -7,7 +7,7 @@ E-mail: sunsz AT cnu.edu.cn
 ### About me
 你的CV，个人简介
 
-I graduated from [Chern Institute of Mathematics](www.cim.nankai.edu.cn), Nankai University, Tianjin and got my PhD degree in 2001
+I graduated from [Chern Institute of Mathematics](http://www.cim.nankai.edu.cn), Nankai University, Tianjin and got my PhD degree in 2001
 
 I spent two years from 2001 to 2003 at School of Mathematical Sciences, Pekin University as postdoc
 
