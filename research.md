@@ -17,4 +17,4 @@
 2. _这里是斜体_
 
 
-#### [Back to Home](https://shanzhong-sun.github.io/Shanzhong-SUN/)
+#### [Back to Home](https://shanzhong-sun.github.io/ShanzhongSUN/)
