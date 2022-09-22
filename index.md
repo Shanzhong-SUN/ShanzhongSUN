@@ -19,7 +19,9 @@ Here is my CV.
 
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
-天体力学数学理论研讨会（系列，2019--）
+* 天体力学数学理论研讨会（系列，2019--）
+
+* 科普报告
 
 ---------
 
