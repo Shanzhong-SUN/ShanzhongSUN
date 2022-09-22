@@ -37,6 +37,10 @@ More precisely, I am interested in
 ---------
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
-当前教学信息、通知
+* Multivariable calculus
+
+* Floer homology: reading seminar, we mainly follow M. Audin and M. Damian, Morse theory and Floer homology (second part)
+
+* Pseudoholomorphic curves and restricted three-body problem: reading seminar, we mainly follow U. Frauenfelder and O. van Koert, The restricted three-body problem and holomorphic curves
 
 ---------
