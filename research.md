@@ -67,5 +67,7 @@
 
 * 2019年5月，首都师范大学，**Resurgence理论及其在数学物理中的应用** 
 
+* 2021年11月，南开大学陈省身数学研究所, [**几何与物理中的高阶结构研讨会--纪念陈省身先生诞辰110周年**](http://www.cim.nankai.edu.cn/2019/1030/c7185a243489/page.htm)
+
 
 #### [Back to Home](https://shanzhong-sun.github.io/ShanzhongSUN/)
