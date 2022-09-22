@@ -20,11 +20,11 @@
 
 (11) Sun, Shanzhong, _Gutzwiller’s semiclassical trace formula and Maslov-type index theory for symplectic paths_, J. Fixed Point Theory Appl. 19 (2017), no. 1, 299-343. [arXiv:1608.08294](https://arxiv.org/abs/1608.08294)
 
-(10) Chen, Xiaojun; Her, Hai-Long; Sun, Shanzhong; Yang, Xiangdong, _A double Poisson algebra structure on Fukaya categories_, J. Geom. Phys. 98 (2015), 57-76. 
+(10) Chen, Xiaojun; Her, Hai-Long; Sun, Shanzhong; Yang, Xiangdong, _A double Poisson algebra structure on Fukaya categories_, J. Geom. Phys. 98 (2015), 57-76. [arXiv:1508.02115](https://arxiv.org/abs/1508.02115)
 
 (9) Chen, Xiaojun; Her, Hai-Long; Sun, Shanzhong, _Lie bialgebra structure on cyclic cohomology of Fukaya categories_, Front. Math. China 10 (2015), no. 5, 1057-1085. 
 
-(8) Hu, Xijun; Long, Yiming; Sun, Shanzhong, _Linear stability of elliptic Lagrangian solutions of the planar three-body problem via index theory_, Arch. Ration. Mech. Anal. 213 (2014),no. 3, 993-1045. 
+(8) Hu, Xijun; Long, Yiming; Sun, Shanzhong, _Linear stability of elliptic Lagrangian solutions of the planar three-body problem via index theory_, Arch. Ration. Mech. Anal. 213 (2014),no. 3, 993-1045. [arXiv:1206.6162](https://arxiv.org/abs/1206.6162)
 
 (7) Hu, Xijun; Sun, Shanzhong, _Morse index and the stability of closed geodesics_, Sci. China Math. 53 (2010), no. 5, 1207-1212. 
 
@@ -34,7 +34,7 @@
 
 (4) Hu, Xijun; Sun, Shanzhong, _Index and stability of symmetric periodic orbits in Hamiltonian systems with application to figure-eight orbit_, Comm. Math. Phys. 290 (2009), no. 2,737-777. 
 
-(3) Albouy, Alain; Fu, Yanning; Sun, Shanzhong, _Symmetry of planar four-body convex central configurations_, Proc. R. Soc. Lond. Ser. A Math. Phys. Eng. Sci. 464 (2008), no. 2093,1355-1365. 
+(3) Albouy, Alain; Fu, Yanning; Sun, Shanzhong, _Symmetry of planar four-body convex central configurations_, Proc. R. Soc. Lond. Ser. A Math. Phys. Eng. Sci. 464 (2008), no. 2093,1355-1365. [arXiv:0706.1194](https://arxiv.org/abs/0706.1194)
 
 (2) Long, Yiming; Sun, Shanzhong, _Collinear central configurations and singular surfaces in the mass space_, Arch. Ration. Mech. Anal. 173 (2004), no. 2, 151-167. 
 
