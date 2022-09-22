@@ -1,3 +1,5 @@
+孙善忠SUN SHANZHONG
+
 Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/)（首都师范大学数学系）.
 
 105 Xisanhuan Beilu, Haidian District, Beijing 100048, China.
@@ -5,7 +7,6 @@ Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Nor
 E-mail: sunsz AT cnu.edu.cn
 
 ### About me
-
 
 I graduated from [Chern Institute of Mathematics](http://www.cim.nankai.edu.cn), Nankai University, Tianjin and got my PhD degree in 2001.
 
