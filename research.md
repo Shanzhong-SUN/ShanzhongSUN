@@ -1,6 +1,6 @@
 ### Expositions
 
-14）Long, Yiming; Sun, Shanzhong The stability of the solar system: History and current states(in Chinese). Sci China Math, 46(2016), 605-613. 
+(3) Long, Yiming; Sun, Shanzhong The stability of the solar system: History and current states(in Chinese). Sci China Math, 46(2016), 605-613. 
 
 (2) Hu, Xijun; Sun, Shanzhong, Variational principle and linear stability of periodic orbits in celestial mechanics. Progress in variational methods, 40-51, Nankai Ser. Pure Appl. Math.Theoret. Phys., 7, World Sci. Publ., Hackensack, NJ, 2011. 
 
