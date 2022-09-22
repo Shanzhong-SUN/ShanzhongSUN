@@ -24,7 +24,7 @@ Here is my CV.
 ### [Research](https://shanzhong-sun.github.io/ShanzhongSUN/research)
 
 
-My research interests lie at the crossroads of mathematics and physics and I work on such topics as N-body problem in celestial mechanics, Fukaya category in symplectic topology, semiclassical trace formula and resurgence theory. 
+My research interests lie at the crossroads of mathematics and physics, and I work on such topics as N-body problem in celestial mechanics, Fukaya category in symplectic topology, semiclassical trace formula and resurgence theory. 
 
 More precisely, I am interested in 
 
