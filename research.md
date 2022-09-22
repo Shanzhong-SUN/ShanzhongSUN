@@ -10,15 +10,15 @@
 
 ### Publications
 
-(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64. arXiv: [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
+(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64. [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
 
 (14) Sun Shanzhong; You Peng, _Monodromy of complexified planar Kepler problem (in Chinese)_, Sci Sin Math, 2022, 52: 257–268; English version: [arXiv:2209.00146](https://arxiv.org/abs/2209.00146)
 
-(13) Huang Yonghong; Sun Shanzhong, _Non-embedding theorems of nilpotent Lie groups and sub-Riemannian manifolds_, Front. Math. China 15(2020), no. 1, 91-114. 
+(13) Huang Yonghong; Sun Shanzhong, _Non-embedding theorems of nilpotent Lie groups and sub-Riemannian manifolds_, Front. Math. China 15(2020), no. 1, 91-114. [arXiv:1801.05626](https://arxiv.org/abs/1801.05626)
 
-(12) Li, Yong; Sauzin David; Sun, Shanzhong, _The Baker-Campbell-Hausdorff formula via mould calculus_, Letters in Math. Phys. 109(2019), 725–746. 
+(12) Li, Yong; Sauzin David; Sun, Shanzhong, _The Baker-Campbell-Hausdorff formula via mould calculus_, Letters in Math. Phys. 109(2019), 725–746. [arXiv:1805.00766](https://arxiv.org/abs/1805.00766)
 
-(11) Sun, Shanzhong, _Gutzwiller’s semiclassical trace formula and Maslov-type index theory for symplectic paths_, J. Fixed Point Theory Appl. 19 (2017), no. 1, 299-343. 
+(11) Sun, Shanzhong, _Gutzwiller’s semiclassical trace formula and Maslov-type index theory for symplectic paths_, J. Fixed Point Theory Appl. 19 (2017), no. 1, 299-343. [arXiv:1608.08294](https://arxiv.org/abs/1608.08294)
 
 (10) Chen, Xiaojun; Her, Hai-Long; Sun, Shanzhong; Yang, Xiangdong, _A double Poisson algebra structure on Fukaya categories_, J. Geom. Phys. 98 (2015), 57-76. 
 
