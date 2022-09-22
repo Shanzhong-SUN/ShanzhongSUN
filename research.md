@@ -43,7 +43,7 @@
 
 ### Preprints
 
-* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175]([)](https://arxiv.org/abs/2012.14175)
+* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175)
 
 
 
