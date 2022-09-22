@@ -42,8 +42,10 @@
 
 
 ### Preprints
-1. **这里是黑体**
-2. _这里是斜体_
+
+* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  arXiv:2012.14175
+
+
 
 ### Invited talks
 1. **这里是黑体**
