@@ -38,7 +38,7 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-2022 Fall
+Fall 2022
 
 * Multivariable calculus
 
