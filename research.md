@@ -10,9 +10,9 @@
 
 ### Publications
 
-(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64.
+(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64. arXiv: [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
 
-(14) Sun Shanzhong; You Peng, _Monodromy of complexified planar Kepler problem (in Chinese)_, Sci Sin Math, 2022, 52: 257–268 
+(14) Sun Shanzhong; You Peng, _Monodromy of complexified planar Kepler problem (in Chinese)_, Sci Sin Math, 2022, 52: 257–268; English version: [arXiv:2209.00146](https://arxiv.org/abs/2209.00146)
 
 (13) Huang Yonghong; Sun Shanzhong, _Non-embedding theorems of nilpotent Lie groups and sub-Riemannian manifolds_, Front. Math. China 15(2020), no. 1, 91-114. 
 
@@ -43,7 +43,13 @@
 
 ### Preprints
 
-* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175)
+* Shanzhong Sun; Chenxi Wang, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
+
+* Li Han; Yong Li; David Sauzin; Shanzhong Sun, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), Submitted.
+
+* Yong Li; David Sauzin; Shanzhong Sun, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institute Fourier.
+
+* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
 
 
 
