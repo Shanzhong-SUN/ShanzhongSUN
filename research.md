@@ -43,13 +43,13 @@
 
 ### Preprints
 
-* Shanzhong Sun; Chenxi Wang, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
+* Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
 
-* Li Han; Yong Li; David Sauzin; Shanzhong Sun, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), Submitted.
+* Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), Submitted.
 
-* Yong Li; David Sauzin; Shanzhong Sun, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institute Fourier.
+* Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institut Fourier.
 
-* Yong Li; David Sauzin; Shanzhong Sun,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
+* Li Yong; Sauzin David; Sun Shanzhong,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
 
 
 
@@ -62,6 +62,7 @@
 * 2019年8月，俄罗斯列别捷夫理论物理研究所，量子几何、对偶和矩阵模型-2019，**Mould观点下的Baker-Campbell-Hausdorff公式**
 
 * 2019年9月，成都四川大学，中亚数学联合会议，**代数resurgent形变量子化**
+
 
 ### Conference Organized
 
