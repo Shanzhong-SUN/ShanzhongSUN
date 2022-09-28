@@ -33,11 +33,13 @@ My research interests lie at the crossroads of mathematics and physics, and I wo
 
 More precisely, I am interested in 
 
-* Symplectic Geometry and Symplectic Topology: symplectic reduction; Floer homologies and Fukaya categories; quiver varieties; cluster varieties; singularities 
+* Symplectic Geometry and Symplectic Topology: symplectic reduction; Floer homologies and Fukaya categories; quiver varieties; cluster varieties; singularities from symplectic perspective
 
 * Hamiltonian Systems and Celestial Mechanics: Maslov index; N-body problem (stability; central configurations; periodic orbits); Gutzwiller’s semiclassical trace formula; integrability 
  
-* Mathematical Physics: higher structures (homotopical algebras) behind quantum mechanics and quantum field theory; 
+* Mathematical Physics: higher structures (homotopical algebras, higher categories,...) behind quantum mechanics and quantum field theory; semiclassical/deformation quantization; modularity; gauge theory 
+
+* Resurgence Theory and Mould Calculus à la Écalle with applications in mathematics (BCH, MZV, modularity...) and quantum physics (wall-crossing, Écalle-Voros exact WKB analysis, complex Chern-Simons theory...)
 
 ---------
 
