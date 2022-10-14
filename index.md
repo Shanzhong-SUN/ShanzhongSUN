@@ -14,7 +14,7 @@ I spent two years from 2001 to 2003 at School of Mathematical Sciences, Pekin Un
 
 Then I joined Capital Normal University in 2003 as a faculty member of Department of Mathematics.
 
-Here is my CV.
+Here is my CV (to be added).
 
 ---------
 
@@ -52,6 +52,12 @@ Fall 2022
 * 天体力学数学理论研讨会（系列，2019年始）
 
 * 科普报告（2017年始）
+
+* 讨论班报告
+题目：Modular regulator and special double L-values
+摘要：In 2006, Manin introduced and studied multiple L-functions of cusp forms but currently not many multiple L-values are well-understood.  Beilinson (1986) defined the Eisenstein symbol in the motivic cohomology of the universal elliptic curve and the work of Deninger–Scholl (1989) shows the Petersson inner product of its regulator gives us L-values. In this talk I will present how to relate this modular regulator with double L-values and iterated integrals of Eisenstein series.
+报告人：王维佳（清华大学）
+时地：2022年10月19日，教二楼
 
 ---------
 
