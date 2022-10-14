@@ -18,13 +18,6 @@ Here is my CV.
 
 ---------
 
-### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
-
-* 天体力学数学理论研讨会（系列，2019年始）
-
-* 科普报告（2017年始）
-
----------
 
 ### [Research](https://shanzhong-sun.github.io/ShanzhongSUN/research)
 
@@ -54,3 +47,11 @@ Fall 2022
 * Pseudoholomorphic curves and restricted three-body problem: reading seminar, we mainly follow U. Frauenfelder and O. van Koert, The restricted three-body problem and holomorphic curves
 
 ---------
+### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
+
+* 天体力学数学理论研讨会（系列，2019年始）
+
+* 科普报告（2017年始）
+
+---------
+
