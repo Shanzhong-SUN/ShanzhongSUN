@@ -49,7 +49,7 @@ Fall 2022
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
-* 天体力学数学理论研讨会（系列，2019年始）
+* [天体力学数学理论研讨会（系列，2019年始）]((https://mathcelemech.github.io/conference/)
 
 * 科普报告（2017年始）
 
