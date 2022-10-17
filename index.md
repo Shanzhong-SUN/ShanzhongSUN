@@ -49,11 +49,11 @@ Fall 2022
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
-* [天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)（系列，2019年始）
+ #### [天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)（系列，2019年始）
 
-* 科普报告（2017年始）
+ #### 科普报告（2017年始）
 
-* 讨论班报告
+ #### 讨论班报告
 
 题目：Modular regulator and special double L-values
 
