@@ -1,4 +1,4 @@
-孙善忠SUN SHANZHONG
+## 孙善忠 SUN SHANZHONG
 
 Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/)（首都师范大学数学系）.
 
@@ -10,7 +10,7 @@ E-mail: sunsz AT cnu.edu.cn
 
 I graduated from [Chern Institute of Mathematics](http://www.cim.nankai.edu.cn), Nankai University, Tianjin and got my PhD degree in 2001.
 
-I spent two years from 2001 to 2003 at School of Mathematical Sciences, Pekin University as postdoc.
+I spent two years from 2001 to 2003 at School of Mathematical Sciences, Peking University as postdoc.
 
 Then I joined Capital Normal University in 2003 as a faculty member of Department of Mathematics.
 
@@ -49,19 +49,17 @@ Fall 2022
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
-#### [天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)（系列，2019年始）
+* [天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)（系列，2019年始）
 
-#### 科普报告（2017年始）
+* 科普报告（2017年始）
 
-#### 讨论班报告
+* 讨论班报告
 
-题目：Modular regulator and special double L-values
-
-摘要：In 2006, Manin introduced and studied multiple L-functions of cusp forms but currently not many multiple L-values are well-understood.  Beilinson (1986) defined the Eisenstein symbol in the motivic cohomology of the universal elliptic curve and the work of Deninger–Scholl (1989) shows the Petersson inner product of its regulator gives us L-values. In this talk I will present how to relate this modular regulator with double L-values and iterated integrals of Eisenstein series.
-
-报告人：王维佳（清华大学）
-
-时地：2022年10月19日（周三）10:30-11:30，首都师范大学数学系（新教二楼）827
-
----------
+    > 题目：Modular regulator and special double L-values
+    > 
+    > 摘要：In 2006, Manin introduced and studied multiple L-functions of cusp forms but currently not many multiple L-values are well-understood.  Beilinson (1986) defined the Eisenstein symbol in the motivic cohomology of the universal elliptic curve and the work of Deninger–Scholl (1989) shows the Petersson inner product of its regulator gives us L-values. In this talk I will present how to relate this modular regulator with double L-values and iterated integrals of Eisenstein series.
+    > 
+    > 报告人：王维佳（清华大学）
+    > 
+    > 时地：2022年10月19日（周三）10:30-11:30，首都师范大学数学系（新教二楼）827
 
