@@ -1,6 +1,6 @@
 ## 孙善忠 SUN SHANZHONG
 
-Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/)（首都师范大学数学系）.
+Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/) (首都师范大学数学系).
 
 105 Xisanhuan Beilu, Haidian District, Beijing 100048, China.
 
