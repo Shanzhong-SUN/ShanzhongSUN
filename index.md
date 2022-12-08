@@ -55,11 +55,11 @@ Fall 2022
 
 * 讨论班报告
 
-    > 题目：Modular regulator and special double L-values
+    > 题目：TBA/WKB correspondence and Resurgent Quantum Mechanics
     > 
-    > 摘要：In 2006, Manin introduced and studied multiple L-functions of cusp forms but currently not many multiple L-values are well-understood.  Beilinson (1986) defined the Eisenstein symbol in the motivic cohomology of the universal elliptic curve and the work of Deninger–Scholl (1989) shows the Petersson inner product of its regulator gives us L-values. In this talk I will present how to relate this modular regulator with double L-values and iterated integrals of Eisenstein series.
+    > 摘要：In this talk, we derive a system of thermodynamics Bethe ansatz (TBA) equations governing the exact WKB periods in one-dimensional Quantum Mechanics with arbitrary polynomial potentials. These TBA equations provide a solution to the Riemann-Hilbert problem of WKB periods in resurgent Quantum Mechanics. Combined with the exact quantization condition, our TBA equations provide a powerful method to solve the spectral problem. If time allows, we will also mention recent achievements on the higher order ODE.
     > 
-    > 报告人：王维佳（清华大学）
+    > 报告人：束红非（BIMSA）
     > 
-    > 时地：2022年10月19日（周三）10:30-11:30，首都师范大学数学系（新教二楼）827
+    > 时地：2022年11月30日（周三）上午10:30-11:30 线上：#腾讯会议：404-676-0262
 
