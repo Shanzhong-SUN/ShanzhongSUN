@@ -67,7 +67,7 @@
 
 * 2019年9月，成都四川大学，中亚数学联合会议，**代数resurgent形变量子化**
 
-* 2021年4月，the Second Matemairacorona：in honor of Professor Hildeberto Eulalio Cabral‘s 80th birthday，online，**Monodromy of the complexified Kepler problem**
+* 2021年4月，巴西，the Second Matemairacorona：in honor of Professor Hildeberto Eulalio Cabral‘s 80th birthday，online，**Monodromy of the complexified Kepler problem**
 
 
 ### Conference Organized
