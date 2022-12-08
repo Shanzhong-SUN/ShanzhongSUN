@@ -57,11 +57,17 @@
 
 * 2018年2月，韩国首尔国立大学，辛动力学与天体力学，**太阳系中星环的稳定性**
 
+* 2018年11月，香港大学，Geometry Seminar，**The Baker–Campbell–Hausdorff formula via mould calculus**
+
+* 2018年11月，香港科技大学，Hong Kong Geometry Colloquium，**Introduction to Ecalle's resurgence theory**
+
 * 2018年7月，台北台湾大学，AIMS第12届动力系统、微分方程及其应用会议, **半经典迹公式启发的动力学问题；N-体问题中相对平衡点的线性稳定性**
 
 * 2019年8月，俄罗斯列别捷夫理论物理研究所，量子几何、对偶和矩阵模型-2019，**Mould观点下的Baker-Campbell-Hausdorff公式**
 
 * 2019年9月，成都四川大学，中亚数学联合会议，**代数resurgent形变量子化**
+
+
 
 
 ### Conference Organized
