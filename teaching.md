@@ -1,6 +1,7 @@
 ### Past courses
 
 #### Undergraduate Courses
+* 2022.09-2022.12 **数学分析**
 * 2022.01-2022.07 **数学分析**
 * 2021.09-2022.01 **数学分析**
 * 2019.03-2019.07 **微分几何**
@@ -20,6 +21,9 @@
 * 2004.09-2005.01 **解析几何**
 
 #### Graduate Courses
+* 2022.09-2022.12 **Morse theory and Floer homology (M. Audin and M. Damian) reading seminar*
+* 2022.09-2022.12 **The restricted three-body problem and holomorphic curves (U. Frauenfelder and O. van Koert) reading seminar*
+* 2022.09-2022.12 **Resurgence and Modulairty(with D. Sauzin)**
 * 2022.03-2022.07 **形变量子化**
 * 2022.01-2022.07 **Resurgence and Modulairty(with D. Sauzin)**
 * 2021.09-2022.01 **Resurgence and Modulairty(with D. Sauzin)**
