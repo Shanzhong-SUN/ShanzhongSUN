@@ -2,7 +2,7 @@
 
 Professor at [Department of Mathematics](https://math.cnu.edu.cn/), [Capital Normal University](https://cnu.edu.cn/) (首都师范大学数学系).
 
-105 Xisanhuan Beilu, Haidian District, Beijing 100048, China.（北京市海淀区西三环北路105号，100048）
+105 Xisanhuan Beilu, Haidian District, Beijing 100048, P. R. China.（北京市海淀区西三环北路105号，100048）
 
 E-mail: sunsz AT cnu.edu.cn
 
@@ -55,13 +55,13 @@ Spring 2023
 
 * 讨论班报告
 
-    > 题目：TBA/WKB correspondence and Resurgent Quantum Mechanics
+    > 题目：Construction Renormalization of the two dimensional Grosse-Wulkenhaar model
     > 
-    > 摘要：In this talk, we derive a system of thermodynamics Bethe ansatz (TBA) equations governing the exact WKB periods in one-dimensional Quantum Mechanics with arbitrary polynomial potentials. These TBA equations provide a solution to the Riemann-Hilbert problem of WKB periods in resurgent Quantum Mechanics. Combined with the exact quantization condition, our TBA equations provide a powerful method to solve the spectral problem. If time allows, we will also mention recent achievements on the higher order ODE.
+    > 摘要：The Grosse-Wulkenaar model is a non-integrable matrix model with quartic interaction.  It is the first renormalizable model in non-commutative quantum field theory and is closely related to the Kontsevich model for the study of the two dimensional quantum gravity.  In this talk I will present some results about the construction of the two-dimensional Grosse-Wulkenhaar model with renormalization group analysis.
     > 
-    > 报告人：束红非（BIMSA）
+    > 报告人：王智拓（哈尔滨工业大学数学研究院）
     > 
-    > 时地：2022年11月30日（周三）上午10:30-11:30 线上：#腾讯会议：404-676-0262
+    > 时地：2023年3月8日（周三）上午10:30-11:30，首都师范大学本部新教二楼827教室
 
 
 ### 我的学生、我的自豪
