@@ -45,7 +45,7 @@
 
 * Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
 
-* Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), Submitted.
+* Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), to appear in Fun. Anal. App..
 
 * Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institut Fourier.
 
@@ -68,6 +68,8 @@
 * 2019年9月，成都四川大学，中亚数学联合会议，**代数resurgent形变量子化**
 
 * 2021年4月，巴西，the Second Matemairacorona：in honor of Professor Hildeberto Eulalio Cabral‘s 80th birthday，online，**Monodromy of the complexified Kepler problem**
+
+* 2022年1月，广州暨南大学，Seminar talk, **Resurgence theory from the QFT perspective** 
 
 
 ### Conference Organized
