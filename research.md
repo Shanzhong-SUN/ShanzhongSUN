@@ -43,6 +43,8 @@
 
 ### Preprints
 
+* Sun Shanzhong; Xie Zhifu; You Peng, _On the Uniqueness of Convex Central Configurations in the Planar 4-Body Problem_, [arXiv:2303.00201](https://arxiv.org/abs/2303.00201), submitted
+
 * Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
 
 * Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), to appear in Fun. Anal. App..
