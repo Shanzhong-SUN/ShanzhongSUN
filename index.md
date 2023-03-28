@@ -55,13 +55,13 @@ Spring 2023
 
 * 讨论班报告
 
-    > 题目：Construction Renormalization of the two dimensional Grosse-Wulkenhaar model
+    > 题目：Fredholm Theory for Real Pseudoholomorphic Curves in Symplectization
     > 
-    > 摘要：The Grosse-Wulkenaar model is a non-integrable matrix model with quartic interaction.  It is the first renormalizable model in non-commutative quantum field theory and is closely related to the Kontsevich model for the study of the two dimensional quantum gravity.  In this talk I will present some results about the construction of the two-dimensional Grosse-Wulkenhaar model with renormalization group analysis.
+    > 摘要：In the symplectization of a contact manifold, people can consider the Symplectic Field Theory (SFT) in all odd dimensions and Embedded Contact Homology (ECH) in dimension 3. Because there is Real Gromov-Witten Theory and Real Seiberg-Witten Theory, it is a natural idea that Real SFT and Real ECH should exist. The first step to construct those theories is to get Fredholm index for moduli space of real pseudoholomorphic curves in symplectization. By this formula of Fredholm index, we can get parallel index inequalities for real pseudoholomorphic curves as in ECH, which is crucial to define Real ECH. I will give and explain the formula of Fredholm index and index inequalities. Other parts of the project of define Real SFT and Real ECH will be mentioned as well.
     > 
-    > 报告人：王智拓（哈尔滨工业大学数学研究院）
+    > 报告人：周贝加（北京大学）
     > 
-    > 时地：2023年3月8日（周三）上午10:30-11:30，首都师范大学本部新教二楼827教室
+    > 时地：2023年3月28日（周二）上午10:30-11:30，首都师范大学本部新教二楼827教室
 
 
 ### 我的学生、我的自豪
