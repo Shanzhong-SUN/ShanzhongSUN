@@ -5,6 +5,8 @@
 * 讨论班报告
     * 2022/10/19: 王维佳 (清华大学), Modular Regulator and Special Double L-values（In 2006, Manin introduced and studied multiple L-functions of cusp forms but currently not many multiple L-values are well-understood. Beilinson (1986) defined the Eisenstein symbol in the motivic cohomology of the universal elliptic curve and the work of Deninger–Scholl (1989) shows the Petersson inner product of its regulator gives us L-values. In this talk I will present how to relate this modular regulator with double L-values and iterated integrals of Eisenstein series.）
     * 2022/11/30: 束红非（BIMSA），TBA/WKB correspondence and Resurgent Quantum Mechanics （In this talk, we derive a system of thermodynamics Bethe ansatz (TBA) equations governing the exact WKB periods in one-dimensional Quantum Mechanics with arbitrary polynomial potentials. These TBA equations provide a solution to the Riemann-Hilbert problem of WKB periods in resurgent Quantum Mechanics. Combined with the exact quantization condition, our TBA equations provide a powerful method to solve the spectral problem. If time allows, we will also mention recent achievements on the higher order ODE.）
+    * 2023/0308: 王智拓（哈尔滨工业大学数学研究院），  Construction Renormalization of the two dimensional Grosse-Wulkenhaar model（The Grosse-Wulkenaar model is a non-integrable matrix model with quartic interaction. It is the first renormalizable model in non-commutative quantum field theory and is closely related to the Kontsevich model for the study of the two dimensional quantum gravity. In this talk I will present some results about the construction of the two-dimensional Grosse-Wulkenhaar model with renormalization group analysis.）
+
 
 
 
