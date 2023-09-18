@@ -38,13 +38,13 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Spring 2023
+Autumn 2023
 
-* Multivariable calculus
+* Calculus I
 
-* Morse Theory
+* Geometric Quantization (Woodhouse): reading seminar
 
-* Pseudoholomorphic curves and restricted three-body problem: reading seminar, we mainly follow U. Frauenfelder and O. van Koert, The restricted three-body problem and holomorphic curves
+* Thesis reading seminar: (1) Mirror symmetry; (2) Flying me to the mMon; (3) Billiards
 
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
@@ -55,13 +55,13 @@ Spring 2023
 
 * 讨论班报告
 
-    > 题目：Fredholm Theory for Real Pseudoholomorphic Curves in Symplectization
+    > 题目：切触拓扑中的刚性性质
     > 
-    > 摘要：In the symplectization of a contact manifold, people can consider the Symplectic Field Theory (SFT) in all odd dimensions and Embedded Contact Homology (ECH) in dimension 3. Because there is Real Gromov-Witten Theory and Real Seiberg-Witten Theory, it is a natural idea that Real SFT and Real ECH should exist. The first step to construct those theories is to get Fredholm index for moduli space of real pseudoholomorphic curves in symplectization. By this formula of Fredholm index, we can get parallel index inequalities for real pseudoholomorphic curves as in ECH, which is crucial to define Real ECH. I will give and explain the formula of Fredholm index and index inequalities. Other parts of the project of define Real SFT and Real ECH will be mentioned as well.
+    > 摘要：勒让德纽结是三维切触空间中的重要几何结构。他们的拉格朗日填充可以用来研究4维辛流形。通过代数不变量，我们可以对勒让德纽结和拉格朗日填充进行分类，即切触拓扑与辛拓扑中的刚性研究。我们将对一些刚性性质进行介绍。
     > 
-    > 报告人：周贝加（北京大学）
+    > 报告人：高鸿灏（清华大学）
     > 
-    > 时地：2023年3月28日（周二）上午10:30-11:30，首都师范大学本部新教二楼827教室
+    > 时地：2023年9月25日（周一）上午10:30-11:30，首都师范大学本部新教二楼510教室
 
 
 ### 我的学生、我的自豪
