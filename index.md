@@ -44,7 +44,7 @@ Autumn 2023
 
 * Geometric Quantization (Woodhouse): reading seminar
 
-* Thesis reading seminar: (1) Mirror symmetry; (2) Flying me to the mMon; (3) Billiards
+* Thesis reading seminar: (1) Mirror symmetry; (2) Flying me to the moon; (3) Billiards
 
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
