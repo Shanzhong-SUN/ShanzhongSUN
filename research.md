@@ -11,9 +11,9 @@
 ### Publications
 (16) Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, Fun. Anal. App.  57(2023), no.3, 89-112.  [arXiv:2112.15223](https://arxiv.org/abs/2112.15223)
 
-(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64. [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
+(15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics 27(2022), no. 1, 43–64. [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
 
-(14) Sun Shanzhong; You Peng, _Monodromy of complexified planar Kepler problem (in Chinese)_, Sci Sin Math, 2022, 52: 257–268; English version: [arXiv:2209.00146](https://arxiv.org/abs/2209.00146)
+(14) Sun Shanzhong; You Peng, _Monodromy of complexified planar Kepler problem (in Chinese)_, Sci Sin Math, 52(2022), 257–268; English version: [arXiv:2209.00146](https://arxiv.org/abs/2209.00146)
 
 (13) Huang Yonghong; Sun Shanzhong, _Non-embedding theorems of nilpotent Lie groups and sub-Riemannian manifolds_, Front. Math. China 15(2020), no. 1, 91-114. [arXiv:1801.05626](https://arxiv.org/abs/1801.05626)
 
