@@ -9,6 +9,7 @@
 
 
 ### Publications
+(16) Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, Fun. Anal. App.  57(2023), no.3, 89-112.  [arXiv:2112.15223](https://arxiv.org/abs/2112.15223)
 
 (15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics, 2022, Vol. 27, No. 1, pp. 43–64. [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
 
@@ -46,8 +47,6 @@
 * Sun Shanzhong; Xie Zhifu; You Peng, _On the Uniqueness of Convex Central Configurations in the Planar 4-Body Problem_, [arXiv:2303.00201](https://arxiv.org/abs/2303.00201), submitted
 
 * Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
-
-* Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, [arXiv:2112.15223](https://arxiv.org/abs/2112.15223), to appear in Fun. Anal. App..
 
 * Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institut Fourier.
 
