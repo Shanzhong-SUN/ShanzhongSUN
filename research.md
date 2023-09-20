@@ -73,9 +73,13 @@
 
 * 2022年1月，广州暨南大学，Seminar talk, **Resurgence theory from the QFT perspective** 
 
-* 2023年3月，成都西南财经大学，Seminar taik, **Holomorphic Mechanical System**
+* 2023年3月，成都西南财经大学，Seminar talk, **Holomorphic Mechanical System**
 
 * 2023年3月，上海交通大学，2023 Dynamical Systems: Differential and Topological, Hamiltonian and Stochastic Theory (online), **Uniqueness of Planar 4BP Convex Central Configurations**
+
+* 2023年6月，中科院数学所， Seminar talk, **Uniqueness of Planar 4BP Convex Central Configurations**
+
+* 2023年6月，清华大学， Seminar talk, **An infinity-structre in Morse theory**
 
 
 ### Conference Organized
