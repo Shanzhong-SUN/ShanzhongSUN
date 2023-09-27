@@ -57,7 +57,7 @@ Autumn 2023
 
     > 题目：A regularization approach to automorphic forms
     > 
-    > 摘要： In this talk I will explain work in progress with H. Zhang, in which we develop a new regularization technique using Écalle's transseries. This has led to numerous applications to study automorphic forms. I will talk about some of our results and the key steps in these works.
+    > 摘要：In this talk I will explain work in progress with H. Zhang, in which we develop a new regularization technique using Écalle's transseries. This has led to numerous applications to study automorphic forms. I will talk about some of our results and the key steps in these works.
     > 
     > 报告人：王维佳（清华大学）
     > 
