@@ -55,13 +55,13 @@ Autumn 2023
 
 * 讨论班报告
 
-    > 题目：切触拓扑中的刚性性质
+    > 题目：A regularization approach to automorphic forms
     > 
-    > 摘要：勒让德纽结是三维切触空间中的重要几何结构。他们的拉格朗日填充可以用来研究4维辛流形。通过代数不变量，我们可以对勒让德纽结和拉格朗日填充进行分类，即切触拓扑与辛拓扑中的刚性研究。我们将对一些刚性性质进行介绍。
+    > 摘要： In this talk I will explain work in progress with H. Zhang, in which we develop a new regularization technique using Écalle's transseries. This has led to numerous applications to study automorphic forms. I will talk about some of our results and the key steps in these works.
     > 
-    > 报告人：高鸿灏（清华大学）
+    > 报告人：王维佳（清华大学）
     > 
-    > 时地：2023年9月25日（周一）上午10:30-11:30，首都师范大学本部新教二楼510教室
+    > 时地：2023年9月28日（周三）上午10:30-11:30，首都师范大学本部新教二楼510教室
 
 
 ### 我的学生、我的自豪
