@@ -10,6 +10,8 @@
 
 ### Publications
 
+(18) Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [Annales de l'Institut Fourier, Tome 73, no. 5 (2023) ,pp. 1987-2027](https://aif.centre-mersenne.org/articles/10.5802/aif.3565/), [arXiv:2012.15224](https://arxiv.org/abs/2012.15224).
+
 (17) Sun Shanzhong; Xie Zhifu; You Peng, _On the Uniqueness of Convex Central Configurations in the Planar 4-Body Problem_, [Regular and Chaotic Dynamics (2023, online first)](https://link.springer.com/article/10.1134/S1560354723520076) , [arXiv:2303.00201](https://arxiv.org/abs/2303.00201).
 
 (16) Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, Fun. Anal. App.  57(2023), no.3, 89-112.  [arXiv:2112.15223](https://arxiv.org/abs/2112.15223)
@@ -49,7 +51,6 @@
 
 * Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
 
-* Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [arXiv:2012.15224](https://arxiv.org/abs/2012.15224), to appear in Ann. L'Institut Fourier.
 
 * Li Yong; Sauzin David; Sun Shanzhong,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
 
@@ -80,6 +81,8 @@
 * 2023年6月，中科院数学所， Seminar talk, **Uniqueness of Planar 4BP Convex Central Configurations**
 
 * 2023年6月，清华大学， Seminar talk, **An infinity-structre in Morse theory**
+
+* 2023年9月，中山大学，2023暨南大学-中山大学联合辛几何系列讲座，**Resurgence and partial theta series**
 
 
 ### Conference Organized
