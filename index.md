@@ -55,13 +55,21 @@ Autumn 2023
 
 * 讨论班报告
 
-    > 题目：Progress on the study of Gauged linear Sigma models
+    > 题目：Positive Scalar Curvature: Existence and Rigidity
     > 
-    > 摘要：Gauged linear sigma model (GLSM) proposed by Witten nearly thirty years ago was used to explain the mirror symmetry phenomena. GLSM relates to many important conjectures, like Landau-Ginzburg A model mirror to Landau-Ginzburg B model, Calabi-Yau model to Landau-Ginzburg model correspondence. GLSM has also intimate relation with GIT and can also be formulated in category theory. This report gives a short survey on the recent progress on this topic. 
+    > 摘要：The scalar curvature of a Riemannian metric is interesting not only in analysis, geometry, and topology, but also in physics. Enlargeable Length-structures will be introduced and showed that it is a new obstruction to the existence of a Riemannian metric with positive scalar curvature (PSC-metric). Thus, the connected sum of a closed manifold with some of locally CAT(0)-manifolds carry not PSC-metrics. We will also show that almost non-positive curved manifolds carry no PSC-metrics.  On the other hand, harmonic maps with condition C will be used to show the rigidity theorem about the scalar curvature. 
     > 
-    > 报告人：范辉军（北京大学）
+    > 报告人：邓嘉龙（清华大学）
     > 
-    > 时地：2023年10月18日（周三）上午11:00-12:00，首都师范大学本部新教二楼510教室
+    > 时地：2023年11月8日（周三）上午9:30-10:30，首都师范大学本部新教二楼510教室
+
+    > 题目：Moduli space of Higgs bundles on DM curves
+    > 
+    > 摘要： In this talk, I will present the basic constructions about the moduli spaces of Higgs bundles on Deligne-Mumford curves. To conclude, I will explicitly discrible the moduli space of rank 2 Higgs bundles on the pillowcase orbifold curve.
+    > 
+    > 报告人：黄永红（新疆大学）
+    > 
+    > 时地：2023年11月8日（周三）上午10:40-11:40，首都师范大学本部新教二楼510教室
 
 
 ### 我的学生、我的自豪
