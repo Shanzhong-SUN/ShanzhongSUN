@@ -49,8 +49,9 @@
 
 ### Preprints
 
-* Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Submitted.
+* Li Yong; Sauzin David; Sun Shanzhong, _On the Hadamard inverse of a resurgent function with only one singularity_, [arXiv:2310.17449](https://arxiv.org/abs/2310.17449)  
 
+* Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Acta Mathematica Sinica, English Series (to appear).
 
 * Li Yong; Sauzin David; Sun Shanzhong,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
 
@@ -83,6 +84,10 @@
 * 2023年6月，清华大学， Seminar talk, **An infinity-structre in Morse theory**
 
 * 2023年9月，中山大学，2023暨南大学-中山大学联合辛几何系列讲座，**Resurgence and partial theta series**
+
+* 2023年11月，中科院数学所， Seminar talk, **Modularity of WRT invariants via resurgence theory**
+
+* 2023年12月，广东大学，2023年动力系统与非线性分析学术会议，**Playing the gradient dynamical systems with parameters**
 
 
 ### Conference Organized
