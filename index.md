@@ -30,9 +30,9 @@ More precisely, I am interested in
 
 * Hamiltonian Systems and Celestial Mechanics: Maslov index; N-body problem (stability; central configurations; periodic orbits); Gutzwiller’s semiclassical trace formula; (algebraic) completely integrable Hamiltonian systems (ACIS) and their interactions with geometry and physics
  
-* Mathematical Physics: higher structures (homotopical algebras, higher categories,...) behind quantum mechanics and quantum field theory; semiclassical/deformation quantization; modularity; gauge theory;  
+* Mathematical Physics: higher structures (homotopical algebras, higher categories,...) behind quantum mechanics and quantum field theory; quantizatio (semiclassical, deformation quantization, BV, brane quantization...); modularity; gauge theory; Feynman diagrams  
 
-* Resurgence Theory and Mould Calculus à la Écalle with applications in mathematics (BCH, MZV, modularity...) and quantum physics (wall-crossing, Écalle-Voros exact WKB analysis, complex Chern-Simons theory...)
+* Resurgence Theory and Mould Calculus à la Écalle with applications in mathematics (BCH, MZV, modularity...) and quantum physics (wall-crossing, Écalle-Voros exact WKB analysis, complex Chern-Simons theory, topological string theory...)
 
 ---------
 
