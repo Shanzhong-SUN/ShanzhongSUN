@@ -55,21 +55,14 @@ Autumn 2023
 
 * 讨论班报告
 
-    > 题目：Positive Scalar Curvature: Existence and Rigidity
+    > 题目：Resurgent structure in topological string
     > 
-    > 摘要：The scalar curvature of a Riemannian metric is interesting not only in analysis, geometry, and topology, but also in physics. Enlargeable Length-structures will be introduced and showed that it is a new obstruction to the existence of a Riemannian metric with positive scalar curvature (PSC-metric). Thus, the connected sum of a closed manifold with some of locally CAT(0)-manifolds carry not PSC-metrics. We will also show that almost non-positive curved manifolds carry no PSC-metrics.  On the other hand, harmonic maps with condition C will be used to show the rigidity theorem about the scalar curvature. 
+    > 摘要：Topological string theory has (spacetime) instanton sectors, which the resurgence theory predicts to be completely controlled by the perturbative free energy via Stokes transformations. Recent results also suggest the Stokes constants are related to BPS/DT invariants. To make this picture concrete, one needs to first solve the instanton amplitudes and then calculate the Stokes constants. We demonstrate that the first problem can be solved exactly and completely through a trans-series extension of the BCOV holomorphic anomaly equations. We also show that valuable information on BPS invariants can be obtained through the calculation of Stokes constants. We will demonstrate our results with the example of the famous quintic manifold.
     > 
-    > 报告人：邓嘉龙（清华大学）
+    > 报告人：顾杰（东南大学）
     > 
-    > 时地：2023年11月8日（周三）上午9:30-10:30，首都师范大学本部新教二楼510教室
+    > 时地：2023年12月15日（周五）下午14:30-15:30，首都师范大学本部新教二楼913教室
 
-    > 题目：Moduli space of Higgs bundles on DM curves
-    > 
-    > 摘要： In this talk, I will present the basic constructions about the moduli spaces of Higgs bundles on Deligne-Mumford curves. To conclude, I will explicitly discrible the moduli space of rank 2 Higgs bundles on the pillowcase orbifold curve.
-    > 
-    > 报告人：黄永红（新疆大学）
-    > 
-    > 时地：2023年11月8日（周三）上午10:40-11:40，首都师范大学本部新教二楼510教室
 
 
 ### 我的学生、我的自豪
