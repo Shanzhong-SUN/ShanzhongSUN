@@ -11,8 +11,8 @@
     *  2023/09/25：高鸿灏（清华大学），切触拓扑中的刚性性质（勒让德纽结是三维切触空间中的重要几何结构。他们的拉格朗日填充可以用来研究4维辛流形。通过代数不变量，我们可以对勒让德纽结和拉格朗日填充进行分类，即切触拓扑与辛拓扑中的刚性研究。我们将对一些刚性性质进行介绍。）
     *  2023/09/28：王维佳（清华大学），A regularization approach to automorphic forms （In this talk I will explain work in progress with H. Zhang, in which we develop a new regularization technique using Écalle's transseries. This has led to numerous applications to study automorphic forms. I will talk about some of our results and the key steps in these works.）
     *  2023/10/18：范辉军（北京大学），Progress on the study of Gauged linear Sigma models （Gauged linear sigma model (GLSM) proposed by Witten nearly thirty years ago was used to explain the mirror symmetry phenomena. GLSM relates to many important conjectures, like Landau-Ginzburg A model mirror to Landau-Ginzburg B model, Calabi-Yau model to Landau-Ginzburg model correspondence. GLSM has also intimate relation with GIT and can also be formulated in category theory. This report gives a short survey on the recent progress on this topic.）
-
-
+    *  2023/11/08：邓嘉龙（清华大学），Positive Scalar Curvature: Existence and Rigidity （The scalar curvature of a Riemannian metric is interesting not only in analysis, geometry, and topology, but also in physics. Enlargeable Length-structures will be introduced and showed that it is a new obstruction to the existence of a Riemannian metric with positive scalar curvature (PSC-metric). Thus, the connected sum of a closed manifold with some of locally CAT(0)-manifolds carry not PSC-metrics. We will also show that almost non-positive curved manifolds carry no PSC-metrics. On the other hand, harmonic maps with condition C will be used to show the rigidity theorem about the scalar curvature.）
+    *  2023/11/08：黄永红（新疆大学）Moduli space of Higgs bundles on DM curves （In this talk, I will present the basic constructions about the moduli spaces of Higgs bundles on Deligne-Mumford curves. To conclude, I will explicitly discrible the moduli space of rank 2 Higgs bundles on the pillowcase orbifold curve.）
 
 
 
