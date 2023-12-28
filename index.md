@@ -55,13 +55,13 @@ Autumn 2023
 
 * 讨论班报告
 
-    > 题目：Resurgent structure in topological string
+    > 题目：Langlands Dualities through Bethe/Gauge Correspondence for 3d Gauge Theories
     > 
-    > 摘要：Topological string theory has (spacetime) instanton sectors, which the resurgence theory predicts to be completely controlled by the perturbative free energy via Stokes transformations. Recent results also suggest the Stokes constants are related to BPS/DT invariants. To make this picture concrete, one needs to first solve the instanton amplitudes and then calculate the Stokes constants. We demonstrate that the first problem can be solved exactly and completely through a trans-series extension of the BCOV holomorphic anomaly equations. We also show that valuable information on BPS invariants can be obtained through the calculation of Stokes constants. We will demonstrate our results with the example of the famous quintic manifold.
+    > 摘要：For non-simple laced Lie algebras, B_N and C_N are Langlands dual to each other in mathematical. In this article, we give two kinds of uniform realizations of Bethe/Gauge correspondence between 3d (or 2d) classical Lie group supersymmetry gauge theory with closed and open XXZ (or XXX) spin chain, the role of the ADE Lie algebras are self-dual, and the non-simple laced Lie algebras BN and CN, their position is exchanged. From Bethe/Gauge correspondence point of view, the two types of the effective superpotentials are Langlands duality to each other. More fantastically, for BN-type Lie algebra, fixed spin site by a boundary through Bethe/Gauge.
     > 
-    > 报告人：顾杰（东南大学）
+    > 报告人：丁祥茂教授（中国科学院数学与系统科学研究院）
     > 
-    > 时地：2023年12月15日（周五）下午14:30-15:30，首都师范大学本部新教二楼913教室
+    > 时地：2023年12月29日（周五）上午8:45-9:45，首都师范大学本部新教二楼913教室
 
 
 
