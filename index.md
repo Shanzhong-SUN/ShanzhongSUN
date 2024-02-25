@@ -38,13 +38,13 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Autumn 2023
+Spring 2024
 
-* Calculus I
+* Calculus II
 
-* Geometric Quantization (Woodhouse): reading seminar
+* Mathematical Methods in Classical Mechanics (Arnold, GTM60)
 
-* Thesis reading seminar: (1) Mirror symmetry; (2) Flying me to the moon; (3) Billiards
+* Working seminar: Resurgence theory applied to gauge theory and topological string theory
 
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
