@@ -14,7 +14,7 @@
 
 (17) Sun Shanzhong; Xie Zhifu; You Peng, _On the Uniqueness of Convex Central Configurations in the Planar 4-Body Problem_, [Regular and Chaotic Dynamics (2023, online first)](https://link.springer.com/article/10.1134/S1560354723520076) , [arXiv:2303.00201](https://arxiv.org/abs/2303.00201).
 
-(16) Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, Fun. Anal. App.  57(2023), no.3, 89-112.[Russian](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=faa&paperid=4031&option_lang=rus),[English](https://link.springer.com/article/10.1134/S001626632303005X),  [arXiv:2112.15223](https://arxiv.org/abs/2112.15223)
+(16) Han Li; Li Yong; Sauzin David; Sun Shanzhong, _Resurgence and Partial Theta Series_, Fun. Anal. App.  57(2023), no.3, 89-112.[Russian](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=faa&paperid=4031&option_lang=rus), [English](https://link.springer.com/article/10.1134/S001626632303005X),  [arXiv:2112.15223](https://arxiv.org/abs/2112.15223)
 
 (15) Chenciner Alain; Sauzin David; Sun Shanzhong; Wei Qiaoling, _Elliptic Fixed Points with an Invariant Foliation: Some Facts and More Questions_, Regular and Chaotic Dynamics 27(2022), no. 1, 43–64. [arXiv:2111.07714](https://arxiv.org/abs/2111.07714)
 
