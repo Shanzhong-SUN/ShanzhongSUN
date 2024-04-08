@@ -55,26 +55,15 @@ Spring 2024
 
 * 讨论班报告
 
-    > 题目：LAMOST巡天
+    > 题目：Explicit evaluation of Stokes matrices via the isomonodromic approach
     > 
-    > 摘要：LAMOST（Large Sky Area Multi-Object Fiber Spectroscopic Telescope）是中国天文领域的第一个国家大科学装置，是世界上最大的大视场望远镜。LAMOST的主要目标是进行大规模的天体光谱观测，以研究银河系的结构和演化、等天体物理学等领域。巡天范围: 对北半球的大部分天区，包括各种天体目标进行大范围的巡天观测。多目标光谱观测: LAMOST采用了多目标纤维光谱观测技术，使得它能够在一次观测中同时获取近四千个目标的光谱信息，大大提高了观测效率。光谱数据采集和处理: LAMOST通过光纤将目标天体的光线导入光谱仪，获取它们的光谱信息。这些光谱数据包含了目标天体的波长分布和强度，可以用于高精度分析目标源的温度、表面重力、化学成分、运动速度等重要参数。科学研究: LAMOST的巡天数据被广泛用于各种科学研究，包括银河系结构与动力学、恒星和星系的演化等。这些研究对于理解宇宙的结构和演化具有重要意义，极大的推进了相关领域的研究。
-    >
-    > 本报告将对LAMOST软硬件特性、观测数据、科学成果进行深入和全面的分析和概括，为公众和相关研究人员提供丰富而详实的LAMOST信息，促进对LAMOST这一国之重器的了解。 
+    > 摘要：The Stokes matrices of linear systems and the associated isomonodromy equation play important roles in the study of Frobenius manifolds, stability conditions, representation theory and so on. The isomonodromy equation is a multi-time dependent Hamiltonian system, with the linear system as a Lax representation. Similar to the inverse scattering method, this talk solves the isomonodromy equation in terms of the scattering data, i.e., the Stokes matrices. Equivalently, it gives explicit expression of the Stokes matrices via the boundary values of the isomonodromy equation. As a consequence, many global properties of the solutions of isomonodromy equations can be derived.
     > 
-    > 报告人：赵永恒教授（国家天文台）
+    > 报告人：徐晓濛教授（北京大学）
     > 
-    > 时地：2024年3月15日（周五）上午9:00-10:00，首都师范大学本部新教二楼913教室
+    > 时地：2024年4月19日（周五）上午10:30-11:30，首都师范大学本部新教二楼510教室
     
-    > 题目：CSST 密集星场天体测量参数解算及其进展
-    > 
-    > 摘要：高精度的自行对于银河系的研究具有极为重要的作用。目前绝大多数银河系的研究都集中在太阳临近和外围区域，而对于保留着银河系早期形成历史和演化轨迹重要证据的核球却缺乏研究。重要原因是由于银河系中心区域恒星密度极高、消光高且不均匀、来自于不同子结构的恒星成分混杂，导致直接获取核球高质量的观测数据十分困难。 由于不受大气的影响，空间观测对于密集星场自行研究优势不言而喻，以HST和Gaia为代表的美国、欧洲空间天文项目已经在相关领域取得了丰硕成果。 可以断定：未来兼顾HST空间高分辨率观测能力和盖亚全天覆盖能力的大口径空间测光巡天数据可以极大地拓展密集星场高精度自行的研究。其中，即将发射的中国2米载人空间站工程巡天空间望远镜（China Space Station Telescope，CSST）就提供了这样一个重要的契机。其光学特性和设计指标，可保证其空间分辨能力与国外同级别空间望远镜相匹敌。对于银心方向，CSST会打破HST数据多限于低消光窗口、样本类型较为单一和Gaia对该区域空间分辨率较低的限制；对于本星系团中的近邻星系/矮星系，CSST会打破HST观测区域不够完备和Gaia观测极限星等较亮的的窘境；从而全面获得这些区域高精度绝对自行信息。
-    > 
-    > 本报告就CSST在密集星场天体测量解算的关键问题进行全面的概括和深入的分析，向学生和相关研究人员展示相关数据处理的前沿观点。 
-    > 
-    > 报告人：曹子皇教授（国家天文台）
-    > 
-    > 时地：2024年3月15日（周五）上午10:00-11:00，首都师范大学本部新教二楼913教室
-
+   
 
 
 ### 我的学生、我的自豪
