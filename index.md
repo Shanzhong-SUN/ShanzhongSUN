@@ -55,13 +55,13 @@ Spring 2024
 
 * 讨论班报告
 
-    > 题目：Explicit evaluation of Stokes matrices via the isomonodromic approach
+    > 题目：A theory of counting surfaces in projective varieties
     > 
-    > 摘要：The Stokes matrices of linear systems and the associated isomonodromy equation play important roles in the study of Frobenius manifolds, stability conditions, representation theory and so on. The isomonodromy equation is a multi-time dependent Hamiltonian system, with the linear system as a Lax representation. Similar to the inverse scattering method, this talk solves the isomonodromy equation in terms of the scattering data, i.e., the Stokes matrices. Equivalently, it gives explicit expression of the Stokes matrices via the boundary values of the isomonodromy equation. As a consequence, many global properties of the solutions of isomonodromy equations can be derived.
+    > 摘要：The theory of enumerative invariants of counting curves (Riemann surfaces) in projective varieties has been an important theory in the last decades.The enumerative invariants were motivated by theoretical physics---string theory and gauge theory, and include Gromov-Witten theory, Donaldson-Thomas theory and more recently Vafa-Witten theory.   It is hoped that there may exist a theory of counting algebraic surfaces in projective varieties. A theory of counting surface in a Calabi-Yau 4-fold has been constructed using Donaldson-Thomas theory of 4-folds.In this talk I will try to give evidences of a counting surface theory using stable maps, and explain why it is difficult to construct the counting surface invariants.  
     > 
-    > 报告人：徐晓濛教授（北京大学）
+    > 报告人：蒋云峰教授（堪萨斯大学）
     > 
-    > 时地：2024年4月19日（周五）上午10:30-11:30，首都师范大学本部新教二楼510教室
+    > 时地：2024年6月27日（周四）上午10:30-11:30，首都师范大学本部新教二楼913教室
     
    
 
