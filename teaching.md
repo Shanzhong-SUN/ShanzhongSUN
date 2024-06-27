@@ -1,10 +1,11 @@
 ### Past courses
 
 #### Undergraduate Courses
+* 2024.03-2024.06 **数学分析2**
 * 2023.09-2023.12 **数学分析1**
-* 2023.01-2023.07 **数学分析4**
+* 2023.03-2023.06 **数学分析4**
 * 2022.09-2022.12 **数学分析3**
-* 2022.01-2022.07 **数学分析2**
+* 2022.03-2022.06 **数学分析2**
 * 2021.09-2022.01 **数学分析1**
 * 2019.03-2019.07 **微分几何**
 * 2017.03-2017.07 **微分几何**
@@ -23,6 +24,8 @@
 * 2004.09-2005.01 **解析几何**
 
 #### Graduate Courses
+* 2024.03-2024.06 **经典力学中的数学方法（GTM60）**
+* 2024.02-2024.07 **Resurgence and Modulairty(with D. Sauzin)**
 * 2023.09-2023.12 **Resurgence and Modulairty(with D. Sauzin)**
 * 2023.07-2023.12 **Geometric Quantization (N. M. J. Woodhouse) reading seminar**
 * 2023.01-2023.07 **Morse theory and Floer homology (M. Audin and M. Damian) reading seminar**
