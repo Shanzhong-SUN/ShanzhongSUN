@@ -38,11 +38,11 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Spring 2024
+Autumn 2024
 
-* Calculus II
+* Calculus III
 
-* Mathematical Methods in Classical Mechanics (Arnold, GTM60)
+* Morse theory (old and not so old)
 
 * Working seminar: Resurgence theory applied to gauge theory and topological string theory
 
