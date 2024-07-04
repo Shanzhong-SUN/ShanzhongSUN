@@ -1,5 +1,7 @@
 ### Expositions
 
+（4）申文；孙善忠；李勇；李镛；邸玥，_Resurgence理论及其应用（Resurgence theory and its applications, in Chinese）_，首都师范大学学报（自然科学版），2024, 45（1）：77-115.
+
 (3) Long, Yiming; Sun, Shanzhong, _太阳系的稳定性：历史与现状(The stability of the solar system: History and current states, in Chinese)_, Sci China Math, 46(2016), 605-613. 
 
 (2) Hu, Xijun; Sun, Shanzhong, _Variational principle and linear stability of periodic orbits in celestial mechanics_, Progress in variational methods, 40-51, Nankai Ser. Pure Appl. Math.Theoret. Phys., 7, World Sci. Publ., Hackensack, NJ, 2011. 
