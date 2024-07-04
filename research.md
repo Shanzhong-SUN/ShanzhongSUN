@@ -100,5 +100,8 @@
 
 * 2021年11月，南开大学陈省身数学研究所, [**几何与物理中的高阶结构研讨会--纪念陈省身先生诞辰110周年**](http://www.cim.nankai.edu.cn/2019/1030/c7185a243489/page.htm)
 
+* 2024年6月，南开大学陈省身数学研究所，[**复现理论在数学物理中的应用研讨会(Workshop on Resurgence Theory in Mathematical physics)**](http://www.cim.nankai.edu.cn/2024/0506/c7185a541554/page.htm)
+  
+
 
 #### [Back to Home](https://shanzhong-sun.github.io/ShanzhongSUN/)
