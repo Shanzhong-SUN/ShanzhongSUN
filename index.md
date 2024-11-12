@@ -55,13 +55,13 @@ Autumn 2024
 
 * 讨论班报告
 
-    > 题目：A theory of counting surfaces in projective varieties
+    > 题目：Lie groupoid structures on regular Donaldson Moduli spaces
     > 
-    > 摘要：The theory of enumerative invariants of counting curves (Riemann surfaces) in projective varieties has been an important theory in the last decades.The enumerative invariants were motivated by theoretical physics---string theory and gauge theory, and include Gromov-Witten theory, Donaldson-Thomas theory and more recently Vafa-Witten theory.   It is hoped that there may exist a theory of counting algebraic surfaces in projective varieties. A theory of counting surface in a Calabi-Yau 4-fold has been constructed using Donaldson-Thomas theory of 4-folds.In this talk I will try to give evidences of a counting surface theory using stable maps, and explain why it is difficult to construct the counting surface invariants.  
+    > 摘要：In general, moduli spaces in geometry have quotient singularities and the Lie groupoids have advantages in recording these structures in smooth categories. Motivated by this principle, in this talk, we will base on the Donaldson moduli spaces of instantons on 4-manifolds and explain the framework of the construction. This is the joint work with Bohui Chen and Bai-ling Wang. 
     > 
-    > 报告人：蒋云峰教授（堪萨斯大学）
+    > 报告人：乔帅格博士（北京大学）
     > 
-    > 时地：2024年6月27日（周四）上午10:30-11:30，首都师范大学本部新教二楼913教室
+    > 时地：2024年11月20日（周三）上午10:30-11:30，首都师范大学本部新教二楼610教室
     
    
 
