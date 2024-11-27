@@ -11,6 +11,7 @@
 
 
 ### Publications
+(19) Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), [Acta Mathematica Sinica, English Series] ([to appear](https://link.springer.com/article/10.1007/s10114-024-2523-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241125&utm_content=10.1007%2Fs10114-024-2523-5)).
 
 (18) Li Yong; Sauzin David; Sun Shanzhong, _On the Moyal Star Product of Resurgent Series_, [Annales de l'Institut Fourier, Tome 73, no. 5 (2023), pp. 1987-2027](https://aif.centre-mersenne.org/articles/10.5802/aif.3565/), [arXiv:2012.15224](https://arxiv.org/abs/2012.15224).
 
@@ -52,8 +53,6 @@
 ### Preprints
 
 * Li Yong; Sauzin David; Sun Shanzhong, _On the Hadamard inverse of a resurgent function with only one singularity_, [arXiv:2310.17449](https://arxiv.org/abs/2310.17449)  
-
-* Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_, [arXiv:2208.11959](https://arxiv.org/abs/2208.11959), Acta Mathematica Sinica, English Series (to appear).
 
 * Li Yong; Sauzin David; Sun Shanzhong,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
 
