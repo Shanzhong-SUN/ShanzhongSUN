@@ -55,13 +55,13 @@ Autumn 2024
 
 * 讨论班报告
 
-    > 题目：Lie groupoid structures on regular Donaldson Moduli spaces
+    > 题目：Tulczyjew’s approach for particles in gauge fields
     > 
-    > 摘要：In general, moduli spaces in geometry have quotient singularities and the Lie groupoids have advantages in recording these structures in smooth categories. Motivated by this principle, in this talk, we will base on the Donaldson moduli spaces of instantons on 4-manifolds and explain the framework of the construction. This is the joint work with Bohui Chen and Bai-ling Wang. 
+    > 摘要：Tulczyjew's unified approach to Lagrangian and Hamiltonian descriptions of particle dynamics is quite appealing to geometry-oriented minds. An advantage of this geometric approach is its flexibility in the sense that it can be easily adapted to different settings, especially to systems with singular Lagrangians or subject to constraints. As one more demonstration of its flexibility, in this talk it will be reported that Tulczyjew's approach also works for particle dynamics in which an electrically charged particle moves in the presence of an external non-abelian gauge field. As a consequence,  a nontrivial generalization of the Lagrange equation is obtained.  
     > 
-    > 报告人：乔帅格博士（北京大学）
+    > 报告人：孟国武教授（香港科技大学）  
     > 
-    > 时地：2024年11月20日（周三）上午10:30-11:30，首都师范大学本部新教二楼610教室
+    > 时地：2024年12月4日（周三）上午10:30-11:30，首都师范大学本部新教二楼610教室
     
    
 
