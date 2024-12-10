@@ -55,13 +55,18 @@ Autumn 2024
 
 * 讨论班报告
 
-    > 题目：Tulczyjew’s approach for particles in gauge fields
+    > 题目：Automorphisms of the Boutet de Monvel algebra
     > 
-    > 摘要：Tulczyjew's unified approach to Lagrangian and Hamiltonian descriptions of particle dynamics is quite appealing to geometry-oriented minds. An advantage of this geometric approach is its flexibility in the sense that it can be easily adapted to different settings, especially to systems with singular Lagrangians or subject to constraints. As one more demonstration of its flexibility, in this talk it will be reported that Tulczyjew's approach also works for particle dynamics in which an electrically charged particle moves in the presence of an external non-abelian gauge field. As a consequence,  a nontrivial generalization of the Lagrange equation is obtained.  
+    > 摘要：In a remarkable work, Duistermaat and Singer in 1976 studied the algebras  of all classical pseudodifferential operators on smooth (boundaryless)  manifolds. They  gave a description of  order preserving algebra isomorphism  between  the algebras of classical pseudodifferential operators of two manifolds. The subject of this talk is the generalisation of their results to manifolds with boundary. The role of the algebra of pseudodifferential operators that we are interested in is the  Boutet de Monvel algebra. 
+The main fact of life about manifold with boundary is that vector fields do not define global flows and the "boundary conditions" are a way of dealing with this problem. The Boutet de Monvel algebra
+corresponds to the choice of local boundary conditions and is, effectively,  a non-commutative completion of the manifold. One can think of  it as a parametrised version of the classical Toeplitz
+algebra as a completion of the half-space.
+What appears in the study of automorphisms are Fourier integraloperators and we will try to explain their appearance - both in boundaryless and boundary case. as it turns out, the non-trivial boundary case introduces both some complications but also some simplifications of the analysis involved, Once this is done, the analysis that we need reduces to a high degree to relatively classical results about automorphisms and homology of the Toeplitz algebra and some basic facts from K-theory.
+This is a joint work in progress with Elmar Schrohe.
     > 
-    > 报告人：孟国武教授（香港科技大学）  
+    > 报告人：Ryszard NEST教授（哥本哈根大学）
     > 
-    > 时地：2024年12月4日（周三）上午10:30-11:30，首都师范大学本部新教二楼610教室
+    > 时地：2024年12月13日（周五）上午10:00-11:00，首都师范大学本部新教二楼608教室
     
    
 
