@@ -38,13 +38,15 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Autumn 2024
+Spring 2025
 
-* Calculus III
+* Calculus IV (Gamma, differential forms and Stokes theorem, Fourier)
 
-* Morse theory (old and not so old)
+* Topics on Riemann Surfaces (modular)
 
 * Working seminar: Resurgence theory applied to gauge theory and topological string theory
+
+* Reading seminar: Les fonctions resurgentes, Ecalle (Tome I)
 
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
