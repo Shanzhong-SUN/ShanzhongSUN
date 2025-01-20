@@ -90,6 +90,12 @@
 
 * 2023年12月，广东大学，2023年动力系统与非线性分析学术会议，**Playing the gradient dynamical systems with parameters**
 
+* 2024年05月，四川大学，International Conference on Convex Analysis，Variational Methods and Many-Body Problem，**Towards the Uniqueness of the Convex Central Configurations in the Planar 4-body Problem**
+
+* 2024年12月，华中科技大学，Seminar Talk, **Quantum Modularity and Resurgence Theory**
+
+* 2024年12月，重庆工商大学，Seminar Talk, **Maslov Index Theory and the Stability in Celestial Mechanics**
+
 
 ### Conference Organized
 
