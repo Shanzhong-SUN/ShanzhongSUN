@@ -1,6 +1,7 @@
 ### Past courses
 
 #### Undergraduate Courses
+* 2024.09-2024.12 **数学分析3**
 * 2024.03-2024.06 **数学分析2**
 * 2023.09-2023.12 **数学分析1**
 * 2023.03-2023.06 **数学分析4**
@@ -23,7 +24,10 @@
 * 2006.02-2006.06 **高等数学**
 * 2004.09-2005.01 **解析几何**
 
-#### Graduate Courses
+#### Graduate Courses/Seminars
+* 2024.09-2024.12 **Morse Theory（Milnor+Witten）**
+* 2024.09-2024.12 **Resurgence and Modulairty(with D. Sauzin)**
+* 2024.09-2024.12 **Les fonctions resurgentes, Ecalle (Tome I) reading seminar**
 * 2024.03-2024.06 **经典力学中的数学方法（GTM60）**
 * 2024.02-2024.07 **Resurgence and Modulairty(with D. Sauzin)**
 * 2023.09-2023.12 **Resurgence and Modulairty(with D. Sauzin)**
