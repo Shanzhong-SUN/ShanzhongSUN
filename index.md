@@ -57,18 +57,13 @@ Spring 2025
 
 * 讨论班报告
 
-    > 题目：Automorphisms of the Boutet de Monvel algebra
+    > 题目：The two Levi-Civita regularizations 
     > 
-    > 摘要：In a remarkable work, Duistermaat and Singer in 1976 studied the algebras  of all classical pseudodifferential operators on smooth (boundaryless)  manifolds. They  gave a description of  order preserving algebra isomorphism  between  the algebras of classical pseudodifferential operators of two manifolds. The subject of this talk is the generalisation of their results to manifolds with boundary. The role of the algebra of pseudodifferential operators that we are interested in is the  Boutet de Monvel algebra. 
-The main fact of life about manifold with boundary is that vector fields do not define global flows and the "boundary conditions" are a way of dealing with this problem. The Boutet de Monvel algebra
-corresponds to the choice of local boundary conditions and is, effectively,  a non-commutative completion of the manifold. One can think of  it as a parametrised version of the classical Toeplitz
-algebra as a completion of the half-space.
-What appears in the study of automorphisms are Fourier integraloperators and we will try to explain their appearance - both in boundaryless and boundary case. as it turns out, the non-trivial boundary case introduces both some complications but also some simplifications of the analysis involved, Once this is done, the analysis that we need reduces to a high degree to relatively classical results about automorphisms and homology of the Toeplitz algebra and some basic facts from K-theory.
-This is a joint work in progress with Elmar Schrohe.
+    > 摘要：Levi-Civita published in 1916, and republished in 1920 and 1924, a proof that the flow of the 3-dimensional 3-body problem may be regularized, that is, replaced by a smooth flow which passes the binary collisions without experiencing any kind of singularity. This proof is reproduced by Siegel in his book (1956). But from 1965, all the authors on the reg- ularization of the binary collisions considered that Levi-Civita only did the 2-dimensional case, and that the 3-dimensional case was first proposed in 1964 by Kustaanheimo, who extended in a sophisticated way the 2-dimensional regularization that Levi-Civita used in 1906. This is extremely surprising. What is then the status of Levi-Civita’s result in 1916? He claimed to regularize the flow, without any hypothesis on the value of the energy. If we replace his second regularization by the Kustaanheimo-Stiefel regularization, we cannot regularize the binary collisions with zero energy. If we replace it by Moser’s regularization (1970), which indeed Moser relates to Levi-Civita’s second regularization (see [2] p. 615), we have the same problem. I will propose a very simple improvement of Levi-Civita’s second regularization which confirms his argument. The improved regularization is still simpler than the KS regularization.
     > 
-    > 报告人：Ryszard NEST教授（哥本哈根大学）
+    > 报告人：Alain ALBOUY教授（巴黎天文台）
     > 
-    > 时地：2024年12月13日（周五）上午10:00-11:00，首都师范大学本部新教二楼608教室
+    > 时地：2025年05月27日（周四）上午10:30-11:30，首都师范大学本部新教二楼727教室
     
    
 
