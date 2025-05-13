@@ -1,6 +1,6 @@
 * 为促进国内研究天体力学相关课题之数学家、天文学家与物理学家间的交流与合作，藉以提升国内天体力学之研究水平，与台湾清华大学数学系的陈国璋教授和南京紫金山天文台的傅燕宁教授于2019年共同发起了“[天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)”。
 
-* 自2017年始，每年为大学一年级的学生作科普报告一次，题目涉及：万有引力定律（2017）、神奇的星环（2018）、集异璧（2019）、数学的统一性--从图谈起（2020）、收敛与发散级数（2021）、指数函数（2022）、连分数（2024）。
+* 自2017年始，每年为大学一年级的学生作科普报告一次，题目涉及：万有引力定律（2017）、神奇的星环（2018）、集异璧（2019）、数学的统一性--从图谈起（2020）、收敛与发散级数（2021）、指数函数（2022）、连分数（2024）、Physical Mathematics（2025）。
 
 * 讨论班报告
     
@@ -33,12 +33,11 @@ Reference:
     *  2024/09/25: 宗正宇（清华大学数学系）Remodeling conjecture with descendant(Based on the work of Eynard-Orantin and Marino, the Remodeling Conjecture was proposed in the papers of Bouchard-Klemm-Marino-Pasquetti in 2007 and 2008. The Remodeling Conjecture can be viewed as an all genus open-closed mirror symmetry for toric Calabi-Yau 3-orbifolds. In this talk, I will explain an all genus mirror symmetry for descendant Gwomov-Witten nvariants of toric Calabi-Yau 3- orbifolds. The B-model is given by the Laplace transform of the Chekhov-Eynard-Orantin invariants of the mirror curve. This talk is based on ongoing joint work with Bohan Fang, Melissa Liu, and Song Yu.)
     *  2024/11/20: 乔帅格（北京大学）Lie groupoid structures on regular Donaldson Moduli spaces(In general, moduli spaces in geometry have quotient singularities and the Lie groupoids have advantages in recording these structures in smooth categories. Motivated by this principle, in this talk, we will base on the Donaldson moduli spaces of instantons on 4-manifolds and explain the framework of the construction. This is the joint work with Bohui Chen and Bai-ling Wang.)
     *  2024/12/04: 孟国武（香港科技大学）Tulczyjew’s approach for particles in gauge fields(Tulczyjew's unified approach to Lagrangian and Hamiltonian descriptions of particle dynamics is quite appealing to geometry-oriented minds. An advantage of this geometric approach is its flexibility in the sense that it can be easily adapted to different settings, especially to systems with singular Lagrangians or subject to constraints. As one more demonstration of its flexibility, in this talk it will be reported that Tulczyjew's approach also works for particle dynamics in which an electrically charged particle moves in the presence of an external non-abelian gauge field. As a consequence, a nontrivial generalization of the Lagrange equation is obtained.)
-
+   
+ 
 
     
     
-
-
 
 
 
