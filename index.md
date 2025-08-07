@@ -26,7 +26,7 @@ My research interests lie at the crossroads of mathematics and physics, and I wo
 
 More precisely, I am interested in 
 
-* Symplectic Geometry and Symplectic Topology: symplectic reduction; Floer homologies and Fukaya categories; quiver varieties; cluster varieties; singularities from symplectic perspective; symplectic nature of moduli spaces (e.g. Hitchin moduli space); noncommutative symplectic/Poisson geometry; derived symplectic/Poisson geometry; 
+* Symplectic Geometry and Symplectic Topology: symmetry and symplectic reduction; Floer homologies and Fukaya categories; quiver varieties; cluster varieties; singularities from symplectic perspective; symplectic nature of moduli spaces (e.g. Hitchin moduli space); noncommutative symplectic/Poisson geometry; derived symplectic/Poisson geometry; 
 
 * Hamiltonian Systems and Celestial Mechanics: Lagrangian Grassmannian and Maslov index; N-body problem (stability; central configurations; periodic orbits); Gutzwiller’s semiclassical trace formula and quantum chaos; (algebraic) completely integrable Hamiltonian systems (ACIS) and their interactions with geometry and physics
  
