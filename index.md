@@ -38,16 +38,16 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Spring 2025
+Autumn 2025
 
-* Calculus IV (Gamma, differential forms and Stokes theorem, Fourier)
+* Calculus I (One variable)
 
-* Topics on Riemann Surfaces (modular)
-
-* Working seminar: Resurgence theory applied to gauge theory and topological string theory
+* Redeadng semniar on unbounded motions in NBP, microlocal analysis and derived symplectic geometry
 
 * Reading seminar: Les fonctions resurgentes, Ecalle (Tome I)
 
+* Working seminar: Resurgence theory applied to gauge theory and topological string theory
+  
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
 
