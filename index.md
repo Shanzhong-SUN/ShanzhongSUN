@@ -42,7 +42,7 @@ Autumn 2025
 
 * Calculus I (One variable)
 
-* Redeadng semniar on unbounded motions in NBP, microlocal analysis and derived symplectic geometry
+* Redeadng seminar on unbounded motions in NBP, microlocal analysis and derived symplectic geometry
 
 * Reading seminar: Les fonctions resurgentes, Ecalle (Tome I)
 
