@@ -98,7 +98,7 @@
 
 * 2024年12月，重庆工商大学，Seminar Talk, **Maslov Index Theory and the Stability in Celestial Mechanics**
 
-* 2025年07月，兰州大学，Conference on geometry and physics, **Universay structures in topological strin gtheory from resurgence perspective**
+* 2025年07月，兰州大学，Conference on geometry and physics, **Universay structures in topological string theory from resurgence perspective**
 
 ### Conference Organized
 
