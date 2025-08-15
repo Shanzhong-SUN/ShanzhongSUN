@@ -57,13 +57,13 @@ Autumn 2025
 
 * 讨论班报告
 
-    > 题目：The two Levi-Civita regularizations 
+    > 题目：GIT quotients and symmetric periodic orbits 
     > 
-    > 摘要：Levi-Civita published in 1916, and republished in 1920 and 1924, a proof that the flow of the 3-dimensional 3-body problem may be regularized, that is, replaced by a smooth flow which passes the binary collisions without experiencing any kind of singularity. This proof is reproduced by Siegel in his book (1956). But from 1965, all the authors on the reg- ularization of the binary collisions considered that Levi-Civita only did the 2-dimensional case, and that the 3-dimensional case was first proposed in 1964 by Kustaanheimo, who extended in a sophisticated way the 2-dimensional regularization that Levi-Civita used in 1906. This is extremely surprising. What is then the status of Levi-Civita’s result in 1916? He claimed to regularize the flow, without any hypothesis on the value of the energy. If we replace his second regularization by the Kustaanheimo-Stiefel regularization, we cannot regularize the binary collisions with zero energy. If we replace it by Moser’s regularization (1970), which indeed Moser relates to Levi-Civita’s second regularization (see [2] p. 615), we have the same problem. I will propose a very simple improvement of Levi-Civita’s second regularization which confirms his argument. The improved regularization is still simpler than the KS regularization.
+    > 摘要：This is joint work with Agustin Moreno and Dayung Koh. The restricted three-body problem is invariant under various antisymplectic involutions. These real structures give rise to the notion of symmetric periodic orbit which simultaneously have an open string interpretation as a Hamiltonian chord as well as a closed string interpretation as a periodic orbit. This makes the bifurcation analysis of symmetric periodic orbits very intriguing since under bifurcations two local Floer homologies are invariant, the periodic one as well as the Lagrangian one. In this talk I explain how methods from symmetric space theory can help to extract efficient datas from reduced monodromy matrices of periodic orbits helping to analyse the possible bifurcation patterns.
     > 
-    > 报告人：Alain ALBOUY教授（巴黎天文台）
+    > 报告人：Urs Frauenfelder教授（德国奥格斯堡大学）
     > 
-    > 时地：2025年05月27日（周四）上午10:30-11:30，首都师范大学本部新教二楼727教室
+    > 时地：2025年08月19日（周二）上午10:30-11:30，首都师范大学本部新教二楼613教室
     
    
 
