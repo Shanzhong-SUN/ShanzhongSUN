@@ -57,13 +57,13 @@ Autumn 2025
 
 * 讨论班报告
 
-    > 题目：GIT quotients and symmetric periodic orbits 
+    > 题目：天体测量与国家⼤科学⼯程 
     > 
-    > 摘要：This is joint work with Agustin Moreno and Dayung Koh. The restricted three-body problem is invariant under various antisymplectic involutions. These real structures give rise to the notion of symmetric periodic orbit which simultaneously have an open string interpretation as a Hamiltonian chord as well as a closed string interpretation as a periodic orbit. This makes the bifurcation analysis of symmetric periodic orbits very intriguing since under bifurcations two local Floer homologies are invariant, the periodic one as well as the Lagrangian one. In this talk I explain how methods from symmetric space theory can help to extract efficient datas from reduced monodromy matrices of periodic orbits helping to analyse the possible bifurcation patterns.
+    > 摘要：本报告将系统阐述天体测量的核心概念、国家大科学工程的战略意义、中国天文领域首个国家大科学工程——郭守敬望远镜（LAMOST）的科学与技术成就，以及中国科学院的定位与使命。报告指出，天体测量（Astrometry）是天文学最基础且最关键的分支，其核心任务是精确测定天体的位置、运动和距离，为天球坐标系统的建立、空间导航以及系外行星探测等奠定了坚实基础。典型代表项目包括欧洲空间局的Gaia卫星、甚长基线干涉测量（VLBI）和中国空间站望远镜（CSST）。在阐释国家大科学工程的内涵时，报告指出，这类工程是国家层面规划建设的重大科研设施，具有高投入、高技术、高产出和高共享等特征，旨在解决前沿科学问题、推动原始创新与关键核心技术突破。国际上具有代表性的案例包括CERN的大型强子对撞机（LHC）、NASA的詹姆斯·韦布空间望远镜（JWST）以及SKA平方公里阵列射电望远镜。报告重点分析了LAMOST作为我国天文领域首个国家大科学工程的重要地位：在科学意义上，它填补了我国在大规模天体光谱观测方面的技术与数据空白；在技术创新上，独创性地采用子午缝结构与可变焦比主镜设计，实现了4000根光纤同时观测的突破；在科学产出上，公开发布了超过2200万条高质量光谱，构建了全球最大的恒星光谱数据库，支撑了银河系结构、恒星化学演化和机器学习星表等多个前沿领域的研究，并培养了大量具有观测与数据处理能力的青年人才，被誉为“中国天文迈向国际主流的起跳板”。在此基础上，报告进一步介绍LAMOST天体测量系统的关键技术突破，包括将整个系统分解为星表场、观测星场、像场和介质场的创新方法，以及通过极坐标与局部导星相机坐标融合实现的高精度建模方案。随后，延伸至中国空间站望远镜（CSST）的天体测量前景，指出其在轨观测不受大气扰动、具备1.1平方度的大视场和优于0.13角秒的空间分辨率，将在密集星场（如银心区、M31、M33及球状星团）联合定标与高精度天测中发挥重要作用。报告将展示基于仿真数据的ePSF、EMPCA以及去混叠（Deblending）算法的最新研究进展，这是报告人在天体测量算法与仿真研究方面的前沿探索。最后，报告重申中国科学院的战略定位：作为国家在科学技术领域的最高学术机构、战略科技力量和综合性科研中心，中国科学院肩负着国家战略科技任务、原始创新和高端人才培养的核心使命。
     > 
-    > 报告人：Urs Frauenfelder教授（德国奥格斯堡大学）
+    > 报告人：曹子皇（国家天文台）、单博涛（首都师范大学）
     > 
-    > 时地：2025年08月19日（周二）上午10:30-11:30，首都师范大学本部新教二楼613教室
+    > 时地：2025年10月30日（周四）下午15:30-16:30，首都师范大学本部新教二楼215教室
     
    
 
