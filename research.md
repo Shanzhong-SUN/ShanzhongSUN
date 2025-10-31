@@ -60,7 +60,7 @@
 
 * Andersen Jørgen Ellegaard, Han Li, Li Yong, Mistegård William Elbæk, Sauzin David, Sun Shanzhong _A proof of Witten's asymptotic expansion conjecture for WRT invariants of Seifert fibered homology spheres_, [arXiv: 2510.10678](https://arxiv.org/pdf/2510.10678)
 
-* Sun Shanzhong, Xie Zhifu, You Peng, _Degeneracy of Planar Central Configurations in the -Body Problem_ [arXiv: 2510.25649](https://arxiv.org/pdf/2510.25649)
+* Sun Shanzhong, Xie Zhifu, You Peng, _Degeneracy of Planar Central Configurations in the N-Body Problem_ [arXiv: 2510.25649](https://arxiv.org/pdf/2510.25649)
 
 
 
