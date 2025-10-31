@@ -52,9 +52,9 @@
 
 ### Preprints
 
-* Li Yong; Sauzin David; Sun Shanzhong, _On the Hadamard inverse of a resurgent function with only one singularity_, [arXiv:2310.17449](https://arxiv.org/abs/2310.17449)  
-
 * Li Yong; Sauzin David; Sun Shanzhong,  _Hadamard Product and Resurgence Theory_,  [arXiv:2012.14175](https://arxiv.org/abs/2012.14175).
+
+* Li Yong; Sauzin David; Sun Shanzhong, _On the Hadamard inverse of a resurgent function with only one singularity_, [arXiv:2310.17449](https://arxiv.org/abs/2310.17449)  
 
 * Li Yong; Sauzin David; Sun Shanzhong,  _Resurgence in the Universal Structures in B-model Topological String Theory_, [arXiv:2503.12815](https://arxiv.org/abs/2503.12815).
 
