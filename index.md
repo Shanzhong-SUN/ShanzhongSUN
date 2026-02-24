@@ -38,15 +38,15 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Autumn 2025
+Spring 2026
 
 * Calculus I (One variable)
 
-* Redeadng seminar on unbounded motions in NBP, microlocal analysis and derived symplectic geometry
+* Granduate course: Classical Mechanics and Celestial Mechanics
 
-* Reading seminar: Les fonctions resurgentes, Ecalle (Tome I)
+* Reading seminar: Gutzwiller's classic "Chaos in classical and quantum mechanics"
 
-* Working seminar: Resurgence theory applied to gauge theory and topological string theory
+* Working seminar: wild character variety, spectral network, Fukaya category, microlocal sheaf, and resurgence
   
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
