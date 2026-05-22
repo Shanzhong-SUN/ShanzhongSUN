@@ -27,6 +27,8 @@
 * 2004.09-2005.01 **解析几何**
 
 #### Graduate Courses/Seminars
+* 2025.09-2025.12 **Resurgence and Modulairty(with D. Sauzin)**
+* 2025.09-2025.12 **Les fonctions resurgentes, Ecalle (Tome I) reading seminar**
 * 2025.03-2025.06 **Riemann surfaces (modular forms)**
 * 2025.03-2025.06 **Resurgence and Modulairty(with D. Sauzin)**
 * 2025.03-2025.06 **Les fonctions resurgentes, Ecalle (Tome I) reading seminar**
