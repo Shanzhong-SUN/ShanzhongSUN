@@ -76,7 +76,7 @@ The second example is a classical two-spin Tavis–Cummings system. The system h
 K. Efstathiou, H. Hanßmann, and A. Marchesiello. “Bifurcations and Monodromy of the Axially Symmetric 1:1:-2 Resonance”. In: Journal of Geometry and Physics 146, p. 103493 (2019). 
 
 K. Efstathiou, G. J. Gutierrez-Guillen, P. Mardesic, and D. Sugny. “Hamiltonian Monodromy in a Tavis-Cummings System with an A_2 Singularity”. arXiv:2604.14835(2026). 
-    > 
+    
     > 报告人：Konstantinos Efstathiou（昆山杜克大学）
     > 
     > 时地：2026年8月3日（周一）上午10:30-11:30，首都师范大学本部新教二楼612教室
