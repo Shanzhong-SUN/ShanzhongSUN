@@ -73,8 +73,8 @@ Spring 2026
     > The first example is an integrable Hamiltonian system near an elliptic equilibrium in 1:1:-2 resonance. The integrability of the system originates from averaging along the periodic motion of the quadratic part and an imposed rotational symmetry about the vertical axis. Introducing a detuning parameter we find a rich bifurcation diagram, containing three families of Hamiltonian Hopf bifurcations that join at the origin. I describe the monodromy of the resulting ramified 3-torus bundle as variation of the detuning parameter lets the system pass through the 1:1:-2 resonance.
 The second example is a classical two-spin Tavis–Cummings system. The system has a singular fiber homeomorphic to S^2 x S^1 with an A_2-type singularity. This provides the first physical realization of an integrable Hamiltonian system with a singularity that goes beyond the familiar focus-focus. We describe in detail the topology of the corresponding singular Lagrangian fibration, compute its monodromy, and we discuss the connections with standard singularity theory.
 K. Efstathiou, H. Hanßmann, and A. Marchesiello. “Bifurcations and Monodromy of the Axially Symmetric 1:1:-2 Resonance”. In: Journal of Geometry and Physics 146, p. 103493 (2019). 
-K. Efstathiou, G. J. Gutierrez-Guillen, P. Mardesic, and D. Sugny. “Hamiltonian Monodromy in a Tavis-Cummings System with an A_2 Singularity”. arXiv:2604.14835(2026). 
-    
+K. Efstathiou, G. J. Gutierrez-Guillen, P. Mardesic, and D. Sugny. “Hamiltonian Monodromy in a Tavis-Cummings System with an A_2 Singularity”. arXiv:2604.14835(2026).
+    > 
     > 报告人：Konstantinos Efstathiou（昆山杜克大学）
     > 
     > 时地：2026年8月3日（周一）上午10:30-11:30，首都师范大学本部新教二楼612教室
