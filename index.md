@@ -57,13 +57,27 @@ Spring 2026
 
 * 讨论班报告
 
-    > 题目：Metric geometry on Grothendieck groups in symplectic geometry 
+    > 题目：From Markoff Triples to Painleve VI, Double Affine Hecke Algebras, and Cluster Algebras
     > 
-    > 摘要：In this talk, we will investigate quantitative studies on the Grothendieck group of a derived Fukaya category. This fits into a bigger algebraic framework called triangulated persistence category (TPC). This category unites the persistence module structure (from topological data analysis) and the classical triangulated structure so that a meaningful measurement, via cone decomposition, can be defined on the set of objects. In particular, a TPC structure allows us to define non-trivial pseudo-metrics on its Grothendieck group, which is the first time that people can study a Grothendieck group in terms of the metric geometry. Finally, we will illustrate how to use this method to distinguish classes from the Grothendieck group (of a derived Fukaya category) from a quantitative perspective. This is based on joint work with Paul Biran and Octav Cornea.
+    > 摘要：The Markoff equation x^2 + y^2 + z^2 = 3xyz is a classical Diophantine equation whose   integer solutions encode optimal approximation properties of irrational numbers. In this talk, we review the structure of Markoff triples, their generation via Vieta involutions, and their relation to Diophantine   approximation. We then describe connections with hyperbolic geometry via trace identities in SL_2(R), and outline more recent developments linking Markoff-type structures to the Painlevé VI equation, double affine Hecke   algebras, and cluster algebras.
     > 
-    > 报告人：张俊（中国科技大学）
+    > 报告人：Farkhod Eshmatov（新乌兹别克斯坦大学）
     > 
-    > 时地：2026年5月18日（周一）上午10:30-11:30，首都师范大学本部新教二楼510教室
+    > 时地：2026年6月25日（周四）上午10:30-11:30，首都师范大学本部新教二楼205教室
+    
+* 讨论班报告
+
+    > 题目：Hamiltonian Monodromy and Singular Lagrangian Fibrations in Three Degrees of Freedom
+    > 
+    > 摘要：Hamiltonian monodromy is one of the most fundamental topological invariants of integrable Hamiltonian systems, measuring the obstruction to the existence of global action-angle coordinates. Although its theory is well developed for systems with two degrees of freedom, less is known about the topology of singular Lagrangian fibrations in higher dimensions. In this talk I will discuss two examples that reveal new phenomena in three-degree-of-freedom integrable systems.
+The first example is an integrable Hamiltonian system near an elliptic equilibrium in 1:1:-2 resonance. The integrability of the system originates from averaging along the periodic motion of the quadratic part and an imposed rotational symmetry about the vertical axis. Introducing a detuning parameter we find a rich bifurcation diagram, containing three families of Hamiltonian Hopf bifurcations that join at the origin. I describe the monodromy of the resulting ramified 3-torus bundle as variation of the detuning parameter lets the system pass through the 1:1:-2 resonance.
+The second example is a classical two-spin Tavis–Cummings system. The system has a singular fiber homeomorphic to S^2 x S^1 with an A_2-type singularity. This provides the first physical realization of an integrable Hamiltonian system with a singularity that goes beyond the familiar focus-focus. We describe in detail the topology of the corresponding singular Lagrangian fibration, compute its monodromy, and we discuss the connections with standard singularity theory.
+K. Efstathiou, H. Hanßmann, and A. Marchesiello. “Bifurcations and Monodromy of the Axially Symmetric 1:1:-2 Resonance”. In: Journal of Geometry and Physics 146, p. 103493 (2019). 
+K. Efstathiou, G. J. Gutierrez-Guillen, P. Mardesic, and D. Sugny. “Hamiltonian Monodromy in a Tavis-Cummings System with an A_2 Singularity”. arXiv:2604.14835(2026). 
+    > 
+    > 报告人：Konstantinos Efstathiou（昆山杜克大学）
+    > 
+    > 时地：2026年8月3日（周一）上午10:30-11:30，首都师范大学本部新教二楼612教室
     
    
 
