@@ -108,6 +108,10 @@ Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-
 
 * 2025年07月，兰州大学，Conference on geometry and physics, **Universay structures in topological string theory from resurgence perspective**
 
+* 2026年04月，华中科技大学，Conference on geometry and physics, **Around Witten's Asymptotic Expansion Conjecture: Modularity and Resurgence Perspective**
+
+* 2026年04月，新疆大学，Seminar Talk, **Oscillating Integrals and Resurgence Theory**
+
 ### Conference Organized
 
 * 2019年5月，首都师范大学，[**Resurgence理论及其在数学物理中的应用**](https://math.cnu.edu.cn/xsbg/150330.htm)
