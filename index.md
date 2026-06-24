@@ -40,7 +40,7 @@ More precisely, I am interested in
 
 Autume 2026
 
-* Calculus II (Multivariables)
+* Calculus III (Multivariables)
 
 * Granduate course: Symplectic Geometry and Symplectic Topology
 
