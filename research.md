@@ -63,7 +63,7 @@ Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-
 
 * Sun Shanzhong, Xie Zhifu, You Peng, _Degeneracy of Planar Central Configurations in the N-Body Problem_ [arXiv: 2510.25649](https://arxiv.org/pdf/2510.25649)
 
-* Shen Wen; Sun Shanzhong,  _Two Regularized Determinants of Laplacian through Resurgence theory_, [arXiv:2605.03960](https://arxiv.org/abs/2605.03960))
+* Shen Wen; Sun Shanzhong,  _Two Regularized Determinants of Laplacian through Resurgence theory_, [arXiv:2605.03960](https://arxiv.org/abs/2605.03960)
 
 
 
