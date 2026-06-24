@@ -38,15 +38,15 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Spring 2026
+Autume 2026
 
-* Calculus I (One variable)
+* Calculus II (Mulyivariables)
 
-* Granduate course: Classical Mechanics and Celestial Mechanics
+* Granduate course: Symplectic Geometry and Symplectic Topology
 
 * Reading seminar: Gutzwiller's classic "Chaos in classical and quantum mechanics"
 
-* Working seminar: wild character variety, spectral network, Fukaya category, microlocal sheaf, and resurgence
+* Working seminar: wild character variety, spectral network, Fukaya category, microlocal sheaf, HyperKahler, resurgence and mould
   
 ---------
 ### [News](https://shanzhong-sun.github.io/ShanzhongSUN/event)
