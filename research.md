@@ -12,7 +12,7 @@
 
 ### Publications
 (20) Li Yong; Sauzin David; Sun Shanzhong,  _Resurgence in the Universal Structures in B-model Topological String Theory_, [
-Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-307](https://intlpress.com/JDetail/2062951900338368513),[arXiv:2503.12815](https://arxiv.org/abs/2503.12815).
+Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-307](https://intlpress.com/JDetail/2062951900338368513), [arXiv:2503.12815](https://arxiv.org/abs/2503.12815).
 
 (19) Sun Shanzhong; Wang Chenxi, _A Weak ∞-Functor in Morse Theory_,  [Acta Mathematica Sinica, English Series,Volume 40, pages 2571–2614, (2024) ](https://link.springer.com/article/10.1007/s10114-024-2523-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241125&utm_content=10.1007%2Fs10114-024-2523-5), [arXiv:2208.11959](https://arxiv.org/abs/2208.11959).
 
@@ -59,11 +59,11 @@ Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-
 
 * Li Yong; Sauzin David; Sun Shanzhong, _On the Hadamard inverse of a resurgent function with only one singularity_, [arXiv:2310.17449](https://arxiv.org/abs/2310.17449)  
 
-* Li Yong; Sauzin David; Sun Shanzhong,  _Resurgence in the Universal Structures in B-model Topological String Theory_, [arXiv:2503.12815](https://arxiv.org/abs/2503.12815).
-
 * Andersen Jørgen Ellegaard, Han Li, Li Yong, Mistegård William Elbæk, Sauzin David, Sun Shanzhong, _A proof of Witten's asymptotic expansion conjecture for WRT invariants of Seifert fibered homology spheres_, [arXiv: 2510.10678](https://arxiv.org/pdf/2510.10678)
 
 * Sun Shanzhong, Xie Zhifu, You Peng, _Degeneracy of Planar Central Configurations in the N-Body Problem_ [arXiv: 2510.25649](https://arxiv.org/pdf/2510.25649)
+
+* Shen Wen; Sun Shanzhong,  _Two Regularized Determinants of Laplacian through Resurgence theory_, [arXiv:2605.03960](https://arxiv.org/abs/2605.03960))
 
 
 
