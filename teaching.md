@@ -1,6 +1,7 @@
 ### Past courses
 
 #### Undergraduate Courses
+* 2026.03-2026.06 **数学分析2**
 * 2025.09-2025.12 **数学分析1**
 * 2025.03-2025.06 **数学分析4**
 * 2024.09-2024.12 **数学分析3**
@@ -27,6 +28,9 @@
 * 2004.09-2005.01 **解析几何**
 
 #### Graduate Courses/Seminars
+* 2026.03-2026.06 **Granduate course: Classical Mechanics and Celestial Mechanics**
+* 2026.03-2026.06 **Reading seminar: Gutzwiller’s classic “Chaos in classical and quantum mechanics”**
+* 2026.03-2026.06 **Working seminar: wild character variety, spectral network, Fukaya category, microlocal sheaf, and resurgence**
 * 2025.09-2025.12 **Resurgence and Modulairty(with D. Sauzin)**
 * 2025.09-2025.12 **Les fonctions resurgentes, Ecalle (Tome I) reading seminar**
 * 2025.03-2025.06 **Riemann surfaces (modular forms)**
