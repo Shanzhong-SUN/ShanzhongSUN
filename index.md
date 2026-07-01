@@ -54,16 +54,6 @@ Autume 2026
 * [天体力学数学理论研讨会](https://mathcelemech.github.io/conference/)（系列，2019年始）
 
 * 科普报告（2017年始）
-
-* 讨论班报告
-
-    > 题目：From Markoff Triples to Painleve VI, Double Affine Hecke Algebras, and Cluster Algebras
-    > 
-    > 摘要：The Markoff equation x^2 + y^2 + z^2 = 3xyz is a classical Diophantine equation whose   integer solutions encode optimal approximation properties of irrational numbers. In this talk, we review the structure of Markoff triples, their generation via Vieta involutions, and their relation to Diophantine   approximation. We then describe connections with hyperbolic geometry via trace identities in SL_2(R), and outline more recent developments linking Markoff-type structures to the Painlevé VI equation, double affine Hecke   algebras, and cluster algebras.
-    > 
-    > 报告人：Farkhod Eshmatov（新乌兹别克斯坦大学）
-    > 
-    > 时地：2026年6月25日（周四）上午10:30-11:30，首都师范大学本部新教二楼205教室
     
 * 讨论班报告
 
