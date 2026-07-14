@@ -38,7 +38,7 @@ More precisely, I am interested in
 
 ### [Teaching](https://shanzhong-sun.github.io/ShanzhongSUN/teaching)
 
-Autume 2026
+Autumn 2026
 
 * Calculus III (Multivariables)
 
