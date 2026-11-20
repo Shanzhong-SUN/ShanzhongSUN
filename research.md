@@ -65,6 +65,8 @@ Communications in Number Theory and Physics, Volume 20 (2026) Number 2, pp. 229-
 
 * Shen Wen; Sun Shanzhong,  _Two Regularized Determinants of Laplacian through Resurgence theory_, [arXiv:2605.03960](https://arxiv.org/abs/2605.03960)
 
+* Sun Shanzhong, Xie Zhifu, You Peng, _Degeneracy of Planar 4-body Kite Central Configurations: Restricted and Full Space Perspective_[arXiv: 2610.04593](https://arxiv.org/pdf/2610.04593)
+
 
 
 
