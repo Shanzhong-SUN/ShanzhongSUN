@@ -57,15 +57,14 @@ Autumn 2026
     
 * 讨论班报告
 
-    > 题目：Hamiltonian Monodromy and Singular Lagrangian Fibrations in Three Degrees of Freedom
+    > 题目：Exact Resurgence in Exact WKB Analysis
     > 
-    > 摘要：Hamiltonian monodromy is one of the most fundamental topological invariants of integrable Hamiltonian systems, measuring the obstruction to the existence of global action-angle coordinates. Although its theory is well developed for systems with two degrees of freedom, less is known about the topology of singular Lagrangian fibrations in higher dimensions. In this talk I will discuss two examples that reveal new phenomena in three-degree-of-freedom integrable systems.
-    > The first example is an integrable Hamiltonian system near an elliptic equilibrium in 1:1:-2 resonance. The integrability of the system originates from averaging along the periodic motion of the quadratic part and an imposed rotational symmetry about the vertical axis. Introducing a detuning parameter we find a rich bifurcation diagram, containing three families of Hamiltonian Hopf bifurcations that join at the origin. I describe the monodromy of the resulting ramified 3-torus bundle as variation of the detuning parameter lets the system pass through the 1:1:-2 resonance.
-The second example is a classical two-spin Tavis–Cummings system. The system has a singular fiber homeomorphic to S^2 x S^1 with an A_2-type singularity. This provides the first physical realization of an integrable Hamiltonian system with a singularity that goes beyond the familiar focus-focus. We describe in detail the topology of the corresponding singular Lagrangian fibration, compute its monodromy, and we discuss the connections with standard singularity theory. References：（1）K. Efstathiou, H. Hanßmann, and A. Marchesiello. “Bifurcations and Monodromy of the Axially Symmetric 1:1:-2 Resonance”. In: Journal of Geometry and Physics 146, p. 103493 (2019). （2）K. Efstathiou, G. J. Gutierrez-Guillen, P. Mardesic, and D. Sugny. “Hamiltonian Monodromy in a Tavis-Cummings System with an A_2 Singularity”. arXiv:2604.14835(2026).
+    > 摘要：Building upon formal, non-rigorous resurgence formulae for the late coefficients in WKB expansions of one-dimensional Schrödinger equations, Dingle formulated explicit remainder representations known as exact resurgence formulae. These formulae provide global representations of Borel-resummed WKB expansions and naturally encode the Stokes phenomenon. His pioneering ideas were later extended by Berry and Howls into the theory of hyperasymptotics. More recently, such formulae have re-emerged in mathematical physics through the work of Gaiotto and Hao, who formulated Thermodynamic Bethe Ansatz (TBA) and open TBA equations for Voros coefficients and WKB expansions.
+The aim of this talk is to place several of these developments on a rigorous mathematical foundation. We will present explicit examples of WKB expansions for which the derivation of exact resurgence formulae is fully accessible, complete with asymptotic expansions for the late coefficients and rigorous error bounds. Additionally, a general theorem concerning a broad class of Voros coefficients will be discussed, together with an explicit illustration involving a cubic potential.
     > 
-    > 报告人：Konstantinos Efstathiou（昆山杜克大学）
+    > 报告人：Gergo Nemes（哈尔滨工业大学）
     > 
-    > 时地：2026年8月3日（周一）上午10:30-11:30，首都师范大学本部新教二楼612教室
+    > 时地：2026年11月09日（周一）上午10:30-11:30，首都师范大学本部新教二楼510教室
     
    
 
